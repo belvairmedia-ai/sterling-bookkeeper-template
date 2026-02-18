@@ -394,5 +394,118 @@
     "voorwaarden": "Algemene Voorwaarden",
     "sitemap": "Sitemap"
   },
-  "extra_sections": []
+
+  "extra_sections": [
+    {
+      "id": "dental-insurance-grid",
+      "type": "insurance-grid",
+      "position": "after_hero",
+      "order": 0,
+      "data": {
+        "label": "Wij factureren direct aan uw verzekeraar",
+        "providers": [
+          { "name": "Zilveren Kruis" },
+          { "name": "VGZ" },
+          { "name": "CZ" },
+          { "name": "Menzis" },
+          { "name": "DSW" },
+          { "name": "ONVZ" },
+          { "name": "ASR" },
+          { "name": "Zorg en Zekerheid" }
+        ]
+      }
+    },
+    {
+      "id": "dental-credentials",
+      "type": "doctor-credentials",
+      "position": "after_team",
+      "order": 0,
+      "data": {
+        "label": "Onze Specialisten",
+        "headline": "BIG-geregistreerde tandartsen met jarenlange ervaring",
+        "members": [
+          {
+            "name": "Dr. Marieke van der Berg",
+            "title": "Tandarts — Implantologie",
+            "credentials": ["BIG-geregistreerd", "NVOI lid", "15 jaar ervaring"],
+            "bio": "Gespecialiseerd in implantologie en esthetische tandheelkunde. Afgestudeerd aan de Universiteit van Amsterdam.",
+            "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=400&q=80",
+            "image_alt": "Dr. Marieke van der Berg, tandarts implantologie"
+          },
+          {
+            "name": "Dr. Thomas de Vries",
+            "title": "Orthodontist",
+            "credentials": ["BIG-geregistreerd", "NVvO lid", "Invisalign Provider", "12 jaar ervaring"],
+            "bio": "Expert in onzichtbare beugels en Invisalign-behandelingen voor volwassenen en kinderen.",
+            "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=400&q=80",
+            "image_alt": "Dr. Thomas de Vries, orthodontist"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dental-before-after",
+      "type": "before-after-gallery",
+      "position": "after_about",
+      "order": 0,
+      "data": {
+        "label": "Resultaten",
+        "headline": "Voor & Na — zie het verschil",
+        "items": [
+          {
+            "before": "https://images.unsplash.com/photo-1606811971618-4486d14f3f99?w=800&q=80",
+            "after": "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800&q=80",
+            "caption": "Volledige glimlachreconstructie met keramische kronen — behandelduur 3 maanden"
+          },
+          {
+            "before": "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?w=800&q=80",
+            "after": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=800&q=80",
+            "caption": "Invisalign orthodontische correctie — behandelduur 14 maanden"
+          },
+          {
+            "before": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=800&q=80",
+            "after": "https://images.unsplash.com/photo-1606265752439-1f18756aa5fc?w=800&q=80",
+            "caption": "Tandenbleken met professionele laser-whitening — behandeling 1 sessie"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dental-patient-forms",
+      "type": "patient-forms",
+      "position": "before_footer",
+      "order": 0,
+      "data": {
+        "label": "Patiëntformulieren",
+        "headline": "Download uw formulieren vooraf",
+        "description": "Vul de formulieren thuis in en breng ze mee naar uw eerste afspraak. Dit bespaart tijd in de stoel.",
+        "forms": [
+          {
+            "name": "Nieuwe Patiënt Registratieformulier",
+            "description": "Vul dit in vóór uw eerste bezoek. Inclusief medische geschiedenis en contactgegevens.",
+            "url": "/forms/nieuwe-patient.pdf",
+            "format": "pdf"
+          },
+          {
+            "name": "Medische Vragenlijst",
+            "description": "Overzicht van uw huidige medicatie en medische aandoeningen voor veilige behandeling.",
+            "url": "/forms/medische-vragenlijst.pdf",
+            "format": "pdf"
+          },
+          {
+            "name": "Toestemmingsformulier Behandeling",
+            "description": "Verplicht voor alle invasieve ingrepen. Kan ook digitaal worden ondertekend.",
+            "url": "/forms/toestemming-behandeling.pdf",
+            "format": "pdf"
+          },
+          {
+            "name": "Betalingsplan Aanvraag",
+            "description": "Vraag een gespreide betalingsregeling aan voor grotere behandelingen.",
+            "url": "/forms/betalingsplan.pdf",
+            "format": "pdf"
+          }
+        ]
+      }
+    }
+  ]
 }

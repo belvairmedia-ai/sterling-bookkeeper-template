@@ -3,7 +3,7 @@ import { DM_Sans, Instrument_Serif } from "next/font/google";
 import "./globals.css";
 import content from "@/data/content.json";
 
-const dmSans = DM_Sans({
+const dMSans = DM_Sans({
   variable: "--font-dm-sans",
   subsets: ["latin"],
   weight: ["300", "400", "500", "600", "700"],
@@ -102,7 +102,7 @@ export default function RootLayout({
         />
       </head>
       <body
-        className={`${dmSans.variable} ${instrumentSerif.variable} grain antialiased`}
+        className={`${dMSans.variable} ${instrumentSerif.variable} grain antialiased`}
       >
         {children}
       </body>
