@@ -29,9 +29,6 @@ export default function RootLayout({
   return (
     <html lang="nl">
       <head>
-        {/* Prevent search engines from indexing or following links on preview sites */}
-        <meta name="robots" content="noindex, nofollow, noarchive" />
-        <meta name="googlebot" content="noindex, nofollow" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{

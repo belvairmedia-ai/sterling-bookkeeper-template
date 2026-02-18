@@ -20,9 +20,17 @@ export interface FooterProps {
   footer_ui: {
     copyright: string;
   };
+  credit?: {
+    show?: boolean;
+    text?: string;
+    brand?: string;
+    url?: string;
+  };
+  showCredit?: boolean;
 }
 
-export function Footer({ company, footer, footer_ui }: FooterProps) {
+export function Footer({ company, footer, footer_ui, credit, showCredit = true }: FooterProps) {
+  const displayCredit = showCredit && (credit?.show !== false);
   return (
     <footer className="bg-stone-900 pt-20 pb-10">
       <div className="mx-auto max-w-7xl px-6 lg:px-12">
@@ -213,6 +221,22 @@ export function Footer({ company, footer, footer_ui }: FooterProps) {
             ))}
           </div>
         </div>
+
+        {/* Belvair Credit */}
+        {displayCredit && (
+          <div className="mt-4 flex items-center justify-center gap-1.5">
+            <span className="text-[10px] text-stone-600">{credit?.text ?? "Designed by"}</span>
+            <span className="text-[10px] text-stone-600">&#9670;</span>
+            <a
+              href={credit?.url ?? "https://belvair.nl"}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-[10px] text-stone-500 transition-colors hover:text-stone-300"
+            >
+              {credit?.brand ?? "Belvair"}
+            </a>
+          </div>
+        )}
       </div>
     </footer>
   );

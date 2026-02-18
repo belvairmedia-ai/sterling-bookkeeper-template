@@ -394,5 +394,11 @@
     "voorwaarden": "Algemene Voorwaarden",
     "sitemap": "Sitemap"
   },
-  "extra_sections": []
+  "extra_sections": [],
+  "credit": {
+    "show": true,
+    "text": "Designed by",
+    "brand": "Belvair",
+    "url": "https://belvair.nl"
+  }
 }

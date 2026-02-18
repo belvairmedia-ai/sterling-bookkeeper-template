@@ -1,18 +1,18 @@
 import type { Metadata } from "next";
-import { DM_Sans, Instrument_Serif } from "next/font/google";
+import { Plus_Jakarta_Sans, Fraunces } from "next/font/google";
 import "./globals.css";
 import content from "@/data/content.json";
 
-const dMSans = DM_Sans({
-  variable: "--font-dm-sans",
+const plusJakartaSans = Plus_Jakarta_Sans({
+  variable: "--font-plus-jakarta-sans",
   subsets: ["latin"],
   weight: ["300", "400", "500", "600", "700"],
 });
 
-const instrumentSerif = Instrument_Serif({
-  variable: "--font-instrument-serif",
+const fraunces = Fraunces({
+  variable: "--font-fraunces",
   subsets: ["latin"],
-  weight: "400",
+  weight: ["400", "700"],
   style: ["normal", "italic"],
 });
 
@@ -29,9 +29,6 @@ export default function RootLayout({
   return (
     <html lang="nl">
       <head>
-        {/* Prevent search engines from indexing or following links on preview sites */}
-        <meta name="robots" content="noindex, nofollow, noarchive" />
-        <meta name="googlebot" content="noindex, nofollow" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -105,7 +102,7 @@ export default function RootLayout({
         />
       </head>
       <body
-        className={`${dMSans.variable} ${instrumentSerif.variable} grain antialiased`}
+        className={`${plusJakartaSans.variable} ${fraunces.variable} grain antialiased`}
       >
         {children}
       </body>
