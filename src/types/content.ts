@@ -160,14 +160,15 @@ export interface ComparisonTableSection extends ExtraSectionBase {
   type: 'comparison-table';
   data: {
     label?: string;
-    headline: string;
+    headline?: string;
     description?: string;
-    columns: { key: string; label: string; highlight?: boolean }[];
+    /** New component format: named columns with optional highlight */
+    columns: { name: string; highlighted?: boolean }[];
     rows: {
       feature: string;
-      /** key must match a column key; value is string | boolean */
-      [key: string]: string | boolean;
+      values: (boolean | string)[];
     }[];
+    footnote?: string;
   };
 }
 
@@ -310,6 +311,239 @@ export interface RichTextSection extends ExtraSectionBase {
 }
 
 // ------------------------------------------------------------
+// Bookkeeper / Accounting section variants
+// ------------------------------------------------------------
+
+export interface TaxDeadlineCalendarSection extends ExtraSectionBase {
+  type: 'tax-deadline-calendar';
+  data: {
+    label?: string;
+    headline?: string;
+    deadlines: {
+      title: string;
+      date: string;
+      description: string;
+      category: 'btw' | 'ib' | 'vpb' | 'loonheffing' | 'jaarrekening' | 'overig';
+      urgent?: boolean;
+    }[];
+  };
+}
+
+export interface ComplianceBadgesSection extends ExtraSectionBase {
+  type: 'compliance-badges';
+  data: {
+    label?: string;
+    headline?: string;
+    description?: string;
+    badges: {
+      name: string;
+      description: string;
+      icon?: string;
+      category: 'privacy' | 'financial' | 'quality' | 'security';
+    }[];
+  };
+}
+
+export interface AssociationMembershipsSection extends ExtraSectionBase {
+  type: 'association-memberships';
+  data: {
+    label?: string;
+    headline?: string;
+    description?: string;
+    associations: {
+      name: string;
+      fullName: string;
+      description: string;
+      logo?: string;
+      benefits: string[];
+      url?: string;
+    }[];
+  };
+}
+
+export interface SoftwarePartnersSection extends ExtraSectionBase {
+  type: 'software-partners';
+  data: {
+    label?: string;
+    headline?: string;
+    description?: string;
+    partners: {
+      name: string;
+      logo?: string;
+      description: string;
+      features: string[];
+      migrationSupport: boolean;
+      certified?: boolean;
+      url?: string;
+    }[];
+  };
+}
+
+export interface ClientDashboardPreviewSection extends ExtraSectionBase {
+  type: 'client-dashboard-preview';
+  data: {
+    label?: string;
+    headline?: string;
+    description?: string;
+    screenshot: string;
+    screenshotAlt: string;
+    features: {
+      title: string;
+      description: string;
+      icon?: string;
+    }[];
+  };
+}
+
+export interface FreeToolsSectionSection extends ExtraSectionBase {
+  type: 'free-tools-section';
+  data: {
+    label?: string;
+    headline?: string;
+    description?: string;
+    tools: {
+      name: string;
+      description: string;
+      icon?: string;
+      category: 'calculator' | 'checker' | 'template' | 'guide';
+      url?: string;
+      comingSoon?: boolean;
+    }[];
+  };
+}
+
+export interface ClientPortalSection extends ExtraSectionBase {
+  type: 'client-portal';
+  data: {
+    label?: string;
+    headline?: string;
+    description?: string;
+    portalUrl: string;
+    portalName?: string;
+    features: string[];
+    supportPhone?: string;
+    supportEmail?: string;
+  };
+}
+
+export interface NewsletterSignupSection extends ExtraSectionBase {
+  type: 'newsletter-signup';
+  data: {
+    label?: string;
+    headline?: string;
+    description?: string;
+    placeholder?: string;
+    buttonText?: string;
+    frequency?: string;
+    topics?: string[];
+    privacyText?: string;
+  };
+}
+
+export interface ReferralProgramSection extends ExtraSectionBase {
+  type: 'referral-program';
+  data: {
+    label?: string;
+    headline?: string;
+    description?: string;
+    reward: string;
+    rewardDescription: string;
+    steps: {
+      step: string;
+      title: string;
+      description: string;
+    }[];
+    ctaText?: string;
+    ctaUrl?: string;
+    terms?: string;
+  };
+}
+
+export interface SatisfactionGuaranteeSection extends ExtraSectionBase {
+  type: 'satisfaction-guarantee';
+  data: {
+    label?: string;
+    headline?: string;
+    description?: string;
+    guarantees: {
+      title: string;
+      description: string;
+      icon?: string;
+    }[];
+    badgeText?: string;
+  };
+}
+
+export interface ClientSuccessMetricsSection extends ExtraSectionBase {
+  type: 'client-success-metrics';
+  data: {
+    label?: string;
+    headline?: string;
+    description?: string;
+    metrics: {
+      value: string;
+      label: string;
+      description?: string;
+      trend?: 'up' | 'down' | 'stable';
+      trendValue?: string;
+    }[];
+    period?: string;
+  };
+}
+
+export interface ExpatServicesSection extends ExtraSectionBase {
+  type: 'expat-services';
+  data: {
+    label?: string;
+    headline?: string;
+    description?: string;
+    services: {
+      title: string;
+      description: string;
+      icon?: string;
+    }[];
+    languages: string[];
+    ctaText?: string;
+    ctaUrl?: string;
+  };
+}
+
+export interface EmergencySupportSection extends ExtraSectionBase {
+  type: 'emergency-support';
+  data: {
+    label?: string;
+    headline?: string;
+    description?: string;
+    phone: string;
+    phoneRaw: string;
+    availability: string;
+    situations: {
+      title: string;
+      description: string;
+      urgency: 'critical' | 'high' | 'medium';
+    }[];
+    responseTime?: string;
+  };
+}
+
+export interface PartnerNetworkSection extends ExtraSectionBase {
+  type: 'partner-network';
+  data: {
+    label?: string;
+    headline?: string;
+    description?: string;
+    partners: {
+      type: string;
+      name: string;
+      description: string;
+      logo?: string;
+      specialties: string[];
+      url?: string;
+    }[];
+  };
+}
+
+// ------------------------------------------------------------
 // Master discriminated union
 // ------------------------------------------------------------
 
@@ -333,7 +567,22 @@ export type ExtraSection =
   | SpecialtiesSection
   | QuoteCarouselSection
   | PartnerLogosSection
-  | RichTextSection;
+  | RichTextSection
+  // Bookkeeper / Accounting
+  | TaxDeadlineCalendarSection
+  | ComplianceBadgesSection
+  | AssociationMembershipsSection
+  | SoftwarePartnersSection
+  | ClientDashboardPreviewSection
+  | FreeToolsSectionSection
+  | ClientPortalSection
+  | NewsletterSignupSection
+  | ReferralProgramSection
+  | SatisfactionGuaranteeSection
+  | ClientSuccessMetricsSection
+  | ExpatServicesSection
+  | EmergencySupportSection
+  | PartnerNetworkSection;
 
 /** All valid `type` strings derived from the union. */
 export type ExtraSectionType = ExtraSection['type'];

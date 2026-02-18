@@ -30,6 +30,23 @@ import { DownloadResources } from "./DownloadResources";
 import { SocialProofWall } from "./SocialProofWall";
 import { AcceptedPayments } from "./AcceptedPayments";
 
+// Bookkeeper / Accounting
+import { TaxDeadlineCalendar } from "./TaxDeadlineCalendar";
+import { ComplianceBadges } from "./ComplianceBadges";
+import { AssociationMemberships } from "./AssociationMemberships";
+import { SoftwarePartners } from "./SoftwarePartners";
+import { ClientDashboardPreview } from "./ClientDashboardPreview";
+import { FreeToolsSection } from "./FreeToolsSection";
+import { ClientPortal } from "./ClientPortal";
+import { NewsletterSignup } from "./NewsletterSignup";
+import { ReferralProgram } from "./ReferralProgram";
+import { ComparisonTable } from "./ComparisonTable";
+import { SatisfactionGuarantee } from "./SatisfactionGuarantee";
+import { ClientSuccessMetrics } from "./ClientSuccessMetrics";
+import { ExpatServices } from "./ExpatServices";
+import { EmergencySupport } from "./EmergencySupport";
+import { PartnerNetwork } from "./PartnerNetwork";
+
 /**
  * Registry mapping section IDs to their React components.
  * Use this in the Belvair pipeline to resolve extra sections by ID.
@@ -69,6 +86,23 @@ export const EXTRA_SECTION_REGISTRY: Record<string, ComponentType<any>> = {
   "download-resources": DownloadResources,
   "social-proof-wall": SocialProofWall,
   "accepted-payments": AcceptedPayments,
+
+  // Bookkeeper / Accounting
+  "tax-deadline-calendar": TaxDeadlineCalendar,
+  "compliance-badges": ComplianceBadges,
+  "association-memberships": AssociationMemberships,
+  "software-partners": SoftwarePartners,
+  "client-dashboard-preview": ClientDashboardPreview,
+  "free-tools-section": FreeToolsSection,
+  "client-portal": ClientPortal,
+  "newsletter-signup": NewsletterSignup,
+  "referral-program": ReferralProgram,
+  "comparison-table": ComparisonTable,
+  "satisfaction-guarantee": SatisfactionGuarantee,
+  "client-success-metrics": ClientSuccessMetrics,
+  "expat-services": ExpatServices,
+  "emergency-support": EmergencySupport,
+  "partner-network": PartnerNetwork,
 } as const;
 
 export type ExtraSectionId = keyof typeof EXTRA_SECTION_REGISTRY;

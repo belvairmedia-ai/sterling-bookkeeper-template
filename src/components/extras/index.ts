@@ -65,3 +65,49 @@ export type { SocialProofWallProps, Review } from "./SocialProofWall";
 
 export { AcceptedPayments } from "./AcceptedPayments";
 export type { AcceptedPaymentsProps } from "./AcceptedPayments";
+
+// Bookkeeper / Accounting
+export { TaxDeadlineCalendar } from "./TaxDeadlineCalendar";
+export type { TaxDeadlineCalendarProps, TaxDeadline, DeadlineCategory } from "./TaxDeadlineCalendar";
+
+export { ComplianceBadges } from "./ComplianceBadges";
+export type { ComplianceBadgesProps, ComplianceBadge, BadgeCategory } from "./ComplianceBadges";
+
+export { AssociationMemberships } from "./AssociationMemberships";
+export type { AssociationMembershipsProps, Association } from "./AssociationMemberships";
+
+export { SoftwarePartners } from "./SoftwarePartners";
+export type { SoftwarePartnersProps, SoftwarePartner } from "./SoftwarePartners";
+
+export { ClientDashboardPreview } from "./ClientDashboardPreview";
+export type { ClientDashboardPreviewProps, DashboardFeature } from "./ClientDashboardPreview";
+
+export { FreeToolsSection } from "./FreeToolsSection";
+export type { FreeToolsSectionProps, FreeTool } from "./FreeToolsSection";
+
+export { ClientPortal } from "./ClientPortal";
+export type { ClientPortalProps } from "./ClientPortal";
+
+export { NewsletterSignup } from "./NewsletterSignup";
+export type { NewsletterSignupProps } from "./NewsletterSignup";
+
+export { ReferralProgram } from "./ReferralProgram";
+export type { ReferralProgramProps, ReferralStep } from "./ReferralProgram";
+
+export { ComparisonTable } from "./ComparisonTable";
+export type { ComparisonTableProps, ComparisonColumn, ComparisonRow } from "./ComparisonTable";
+
+export { SatisfactionGuarantee } from "./SatisfactionGuarantee";
+export type { SatisfactionGuaranteeProps, Guarantee } from "./SatisfactionGuarantee";
+
+export { ClientSuccessMetrics } from "./ClientSuccessMetrics";
+export type { ClientSuccessMetricsProps, Metric } from "./ClientSuccessMetrics";
+
+export { ExpatServices } from "./ExpatServices";
+export type { ExpatServicesProps } from "./ExpatServices";
+
+export { EmergencySupport } from "./EmergencySupport";
+export type { EmergencySupportProps } from "./EmergencySupport";
+
+export { PartnerNetwork } from "./PartnerNetwork";
+export type { PartnerNetworkProps } from "./PartnerNetwork";
