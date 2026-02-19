@@ -13,6 +13,8 @@ import { EXTRA_SECTION_REGISTRY } from "@/components/extras/registry";
 import { buildSectionOrder } from "@/lib/section-order";
 import { getPropsForSection } from "@/lib/props-mapper";
 import type { ContentData } from "@/types/content";
+import { CursorFollower } from "@/components/ui/cursor-follower";
+import { SmoothScroll } from "@/components/ui/smooth-scroll";
 
 /* ─── Scheduler Modal Context ────────────────────────────────────
    Provides the `open()` trigger to every section without prop drilling.
@@ -86,6 +88,10 @@ export function PageAssembler({ content }: PageAssemblerProps) {
 
   return (
     <SchedulerModalContext.Provider value={{ open: openScheduler }}>
+      {/* ── Premium animations (smooth scroll + cursor) ── */}
+      <SmoothScroll />
+      <CursorFollower />
+
       {/* ── Fixed top overlays (always rendered, z-index controlled) ── */}
       {ScrollProgress && <ScrollProgress />}
       {StickyCTA && (

@@ -4,6 +4,7 @@ import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
 import { fadeUp } from "./shared";
 import { useSchedulerModal } from "@/components/page-assembler";
+import { MagneticButton } from "@/components/ui/magnetic-button";
 
 export interface CTAProps {
   cta: {
@@ -69,21 +70,23 @@ export function CTA({ cta, hero, company }: CTAProps) {
           custom={3}
           className="mt-10 flex flex-col items-center gap-4 sm:flex-row sm:justify-center"
         >
-          <button
-            onClick={(e) => { e.preventDefault(); scheduler.open(); }}
-            className="group inline-flex items-center gap-3 rounded-full bg-white px-10 py-4 text-[15px] font-semibold text-accent transition-all hover:shadow-2xl hover:shadow-black/20 cursor-pointer"
-          >
-            {hero.cta_primary}
-            <svg
-              className="h-4 w-4 transition-transform group-hover:translate-x-1"
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke="currentColor"
-              strokeWidth={2}
+          <MagneticButton>
+            <button
+              onClick={(e) => { e.preventDefault(); scheduler.open(); }}
+              className="group inline-flex items-center gap-3 rounded-full bg-white px-10 py-4 text-[15px] font-semibold text-accent transition-all hover:shadow-2xl hover:shadow-black/20 cursor-pointer"
             >
-              <path strokeLinecap="round" strokeLinejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
-            </svg>
-          </button>
+              {hero.cta_primary}
+              <svg
+                className="h-4 w-4 transition-transform group-hover:translate-x-1"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+                strokeWidth={2}
+              >
+                <path strokeLinecap="round" strokeLinejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+              </svg>
+            </button>
+          </MagneticButton>
           <a
             href={`tel:+${company.phone_raw}`}
             className="inline-flex items-center gap-2 text-[14px] font-medium text-white/80 transition-colors hover:text-white"

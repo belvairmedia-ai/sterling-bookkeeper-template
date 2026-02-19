@@ -4,6 +4,7 @@ import { motion, useScroll, useTransform } from "framer-motion";
 import Image from "next/image";
 import { useRef } from "react";
 import { fadeUp, scaleIn, SectionLabel } from "./shared";
+import { MagneticButton } from "@/components/ui/magnetic-button";
 
 export interface HeroProps {
   hero: {
@@ -43,18 +44,83 @@ export function Hero({ hero }: HeroProps) {
               <SectionLabel>{hero.label}</SectionLabel>
             </motion.div>
 
-            <motion.h1
-              variants={fadeUp}
-              initial="hidden"
-              animate="visible"
-              custom={1}
-              className="mt-2 font-serif text-[clamp(44.8px,6vw,80px)] font-normal leading-[1.05] tracking-tight text-stone-900"
-            >
-              {hero.headline_before}
-              <br />
-              {hero.headline_after}{" "}
-              <em className="text-accent">{hero.emphasis}</em>.
-            </motion.h1>
+            <h1 className="mt-2 font-serif text-[clamp(44.8px,6vw,80px)] font-normal leading-[1.05] tracking-tight text-stone-900">
+              {/* Line 1 — headline_before words */}
+              <span className="block">
+                {hero.headline_before.split(" ").map((word, i) => (
+                  <motion.span
+                    key={`before-${i}`}
+                    className="inline-block mr-[0.3em]"
+                    initial={{ opacity: 0, y: 40, rotateX: -40 }}
+                    animate={{ opacity: 1, y: 0, rotateX: 0 }}
+                    transition={{
+                      duration: 0.7,
+                      delay: 0.3 + i * 0.08,
+                      ease: [0.22, 1, 0.36, 1],
+                    }}
+                    style={{ perspective: 600 }}
+                  >
+                    {word}
+                  </motion.span>
+                ))}
+              </span>
+              {/* Line 2 — headline_after words + emphasis */}
+              <span className="block">
+                {hero.headline_after.split(" ").map((word, i) => (
+                  <motion.span
+                    key={`after-${i}`}
+                    className="inline-block mr-[0.3em]"
+                    initial={{ opacity: 0, y: 40, rotateX: -40 }}
+                    animate={{ opacity: 1, y: 0, rotateX: 0 }}
+                    transition={{
+                      duration: 0.7,
+                      delay:
+                        0.3 +
+                        (hero.headline_before.split(" ").length + i) * 0.08,
+                      ease: [0.22, 1, 0.36, 1],
+                    }}
+                    style={{ perspective: 600 }}
+                  >
+                    {word}
+                  </motion.span>
+                ))}{" "}
+                <motion.em
+                  className="inline-block text-accent"
+                  initial={{ opacity: 0, y: 40, rotateX: -40 }}
+                  animate={{ opacity: 1, y: 0, rotateX: 0 }}
+                  transition={{
+                    duration: 0.7,
+                    delay:
+                      0.3 +
+                      (hero.headline_before.split(" ").length +
+                        hero.headline_after.split(" ").length) *
+                        0.08,
+                    ease: [0.22, 1, 0.36, 1],
+                  }}
+                  style={{ perspective: 600 }}
+                >
+                  {hero.emphasis}
+                </motion.em>
+                <motion.span
+                  className="inline-block"
+                  initial={{ opacity: 0, y: 40, rotateX: -40 }}
+                  animate={{ opacity: 1, y: 0, rotateX: 0 }}
+                  transition={{
+                    duration: 0.7,
+                    delay:
+                      0.3 +
+                      (hero.headline_before.split(" ").length +
+                        hero.headline_after.split(" ").length +
+                        1) *
+                        0.08,
+                    ease: [0.22, 1, 0.36, 1],
+                  }}
+                  style={{ perspective: 600 }}
+                >
+                  .
+                </motion.span>
+              </span>
+            </h1>
 
             <motion.p
               variants={fadeUp}
@@ -73,21 +139,23 @@ export function Hero({ hero }: HeroProps) {
               custom={3}
               className="mt-10 flex flex-wrap items-center gap-4"
             >
-              <a
-                href="#contact"
-                className="group relative inline-flex items-center gap-2 rounded-full bg-accent px-8 py-4 text-[14px] font-semibold text-white transition-all hover:bg-accent-light hover:shadow-xl hover:shadow-accent/20"
-              >
-                {hero.cta_primary}
-                <svg
-                  className="h-4 w-4 transition-transform group-hover:translate-x-1"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                  strokeWidth={2}
+              <MagneticButton>
+                <a
+                  href="#contact"
+                  className="group relative inline-flex items-center gap-2 rounded-full bg-accent px-8 py-4 text-[14px] font-semibold text-white transition-all hover:bg-accent-light hover:shadow-xl hover:shadow-accent/20"
                 >
-                  <path strokeLinecap="round" strokeLinejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                </svg>
-              </a>
+                  {hero.cta_primary}
+                  <svg
+                    className="h-4 w-4 transition-transform group-hover:translate-x-1"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                    strokeWidth={2}
+                  >
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                  </svg>
+                </a>
+              </MagneticButton>
               <a
                 href="#diensten"
                 className="text-[14px] font-medium text-stone-500 underline decoration-stone-300 underline-offset-4 transition-colors hover:text-stone-900 hover:decoration-stone-500"
