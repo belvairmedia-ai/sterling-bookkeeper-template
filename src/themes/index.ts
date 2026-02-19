@@ -1,12 +1,17 @@
 /**
- * Theme definitions for Sterling Bookkeeper Template
+ * Theme definitions for Sterling Modular Template
  *
- * 5 visual personas — same content.json, same page.tsx, different colors + fonts.
+ * Visual personas — same page.tsx, different content.json + colors + fonts.
  * The n8n workflow picks the best theme via Haiku and generates globals.css + layout.tsx.
  * This file is a reference for local testing — swap themes by updating globals.css + layout.tsx.
+ *
+ * Base themes: forest, navy, burgundy, ocean, charcoal (bookkeeper)
+ * Niche themes: dental-blue, restaurant-burgundy, law-navy, fitness-energy, auto-steel
  */
 
-export type ThemeId = 'forest' | 'navy' | 'burgundy' | 'ocean' | 'charcoal';
+export type ThemeId =
+  | 'forest' | 'navy' | 'burgundy' | 'ocean' | 'charcoal'
+  | 'dental-blue' | 'restaurant-burgundy' | 'law-navy' | 'fitness-energy' | 'auto-steel';
 
 export interface ThemeColors {
   background: string;
@@ -181,6 +186,155 @@ export const themes: Record<ThemeId, Theme> = {
       'stone-700': '#404040',
       'stone-800': '#262626',
       'stone-900': '#171717',
+    },
+    fonts: {
+      sans: { name: 'Outfit', display: 'Outfit', weights: ['300', '400', '500', '600', '700'], styles: [] },
+      serif: { name: 'Source_Serif_4', display: 'Source Serif 4', weights: ['400', '700'], styles: ['normal', 'italic'] },
+    },
+  },
+
+  // ────────────────────────────────────────────────────────────
+  // Niche themes — paired with niche-specific content.json files
+  // ────────────────────────────────────────────────────────────
+
+  'dental-blue': {
+    id: 'dental-blue',
+    label: 'Dental Blue',
+    vibe: 'Clean, clinical, trustworthy',
+    colors: {
+      background: '#ffffff',
+      foreground: '#1A1D23',
+      accent: '#2563eb',
+      'accent-light': '#3b82f6',
+      'accent-dark': '#1d4ed8',
+      cream: '#f0f7ff',
+      'warm-white': '#f8fafc',
+      'stone-50': '#f8fafc',
+      'stone-100': '#f1f5f9',
+      'stone-200': '#e2e8f0',
+      'stone-300': '#cbd5e1',
+      'stone-400': '#94a3b8',
+      'stone-500': '#64748b',
+      'stone-600': '#475569',
+      'stone-700': '#334155',
+      'stone-800': '#1e293b',
+      'stone-900': '#0f172a',
+    },
+    fonts: {
+      sans: { name: 'Inter', display: 'Inter', weights: ['300', '400', '500', '600', '700'], styles: [] },
+      serif: { name: 'Playfair_Display', display: 'Playfair Display', weights: ['400', '700'], styles: ['normal', 'italic'] },
+    },
+  },
+
+  'restaurant-burgundy': {
+    id: 'restaurant-burgundy',
+    label: 'Restaurant Burgundy',
+    vibe: 'Warm, refined, culinary',
+    colors: {
+      background: '#fffbfb',
+      foreground: '#1A1414',
+      accent: '#7f1d1d',
+      'accent-light': '#991b1b',
+      'accent-dark': '#450a0a',
+      cream: '#fef2f2',
+      'warm-white': '#fffbfb',
+      'stone-50': '#fafaf9',
+      'stone-100': '#f5f5f4',
+      'stone-200': '#e7e5e4',
+      'stone-300': '#d6d3d1',
+      'stone-400': '#a8a29e',
+      'stone-500': '#78716c',
+      'stone-600': '#57534e',
+      'stone-700': '#44403c',
+      'stone-800': '#292524',
+      'stone-900': '#1c1917',
+    },
+    fonts: {
+      sans: { name: 'DM_Sans', display: 'DM Sans', weights: ['300', '400', '500', '600', '700'], styles: [] },
+      serif: { name: 'Cormorant_Garamond', display: 'Cormorant Garamond', weights: ['400', '600', '700'], styles: ['normal', 'italic'] },
+    },
+  },
+
+  'law-navy': {
+    id: 'law-navy',
+    label: 'Law Navy',
+    vibe: 'Authoritative, prestigious, serious',
+    colors: {
+      background: '#f8fafc',
+      foreground: '#0f1f33',
+      accent: '#1e3a5f',
+      'accent-light': '#2d4f7a',
+      'accent-dark': '#0f1f33',
+      cream: '#f1f5f9',
+      'warm-white': '#f8fafc',
+      'stone-50': '#f8fafc',
+      'stone-100': '#f1f5f9',
+      'stone-200': '#e2e8f0',
+      'stone-300': '#cbd5e1',
+      'stone-400': '#94a3b8',
+      'stone-500': '#64748b',
+      'stone-600': '#475569',
+      'stone-700': '#334155',
+      'stone-800': '#1e293b',
+      'stone-900': '#0f172a',
+    },
+    fonts: {
+      sans: { name: 'Inter', display: 'Inter', weights: ['300', '400', '500', '600', '700'], styles: [] },
+      serif: { name: 'Libre_Baskerville', display: 'Libre Baskerville', weights: ['400', '700'], styles: ['normal', 'italic'] },
+    },
+  },
+
+  'fitness-energy': {
+    id: 'fitness-energy',
+    label: 'Fitness Energy',
+    vibe: 'Bold, energetic, motivating',
+    colors: {
+      background: '#fffcf8',
+      foreground: '#1A1510',
+      accent: '#ea580c',
+      'accent-light': '#f97316',
+      'accent-dark': '#c2410c',
+      cream: '#fff7ed',
+      'warm-white': '#fffcf8',
+      'stone-50': '#fafaf9',
+      'stone-100': '#f5f5f4',
+      'stone-200': '#e7e5e4',
+      'stone-300': '#d6d3d1',
+      'stone-400': '#a8a29e',
+      'stone-500': '#78716c',
+      'stone-600': '#57534e',
+      'stone-700': '#44403c',
+      'stone-800': '#292524',
+      'stone-900': '#1c1917',
+    },
+    fonts: {
+      sans: { name: 'Plus_Jakarta_Sans', display: 'Plus Jakarta Sans', weights: ['300', '400', '500', '600', '700'], styles: [] },
+      serif: { name: 'Sora', display: 'Sora', weights: ['400', '600', '700'], styles: [] },
+    },
+  },
+
+  'auto-steel': {
+    id: 'auto-steel',
+    label: 'Auto Steel',
+    vibe: 'Industrial, reliable, no-nonsense',
+    colors: {
+      background: '#f8fafc',
+      foreground: '#1A1D23',
+      accent: '#475569',
+      'accent-light': '#64748b',
+      'accent-dark': '#334155',
+      cream: '#f1f5f9',
+      'warm-white': '#f8fafc',
+      'stone-50': '#f8fafc',
+      'stone-100': '#f1f5f9',
+      'stone-200': '#e2e8f0',
+      'stone-300': '#cbd5e1',
+      'stone-400': '#94a3b8',
+      'stone-500': '#64748b',
+      'stone-600': '#475569',
+      'stone-700': '#334155',
+      'stone-800': '#1e293b',
+      'stone-900': '#0f172a',
     },
     fonts: {
       sans: { name: 'Outfit', display: 'Outfit', weights: ['300', '400', '500', '600', '700'], styles: [] },

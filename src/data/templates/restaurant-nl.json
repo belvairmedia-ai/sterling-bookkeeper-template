@@ -1,0 +1,512 @@
+{
+  "company": {
+    "name": "Restaurant De Maas",
+    "logo_initial": "M",
+    "logo_subtitle": "Restaurant",
+    "city": "Rotterdam",
+    "address": "Witte de Withstraat 42",
+    "postcode": "3012 BR",
+    "phone": "010 — 234 5678",
+    "phone_raw": "31102345678",
+    "email": "info@restaurantdemaas.nl",
+    "kvk": "76543210",
+    "btw_id": "NL007654321B01",
+    "whatsapp": "31102345678",
+    "description": "Restaurant in het hart van Rotterdam. Seizoensgebonden gerechten met lokale ingredienten, een uitgebreide wijnkaart en een warme sfeer aan de Maas."
+  },
+  "hero": {
+    "label": "Restaurant — Rotterdam Centrum",
+    "headline_before": "Seizoensgebonden",
+    "headline_after": "gerechten. Bereid met",
+    "emphasis": "passie en ambacht",
+    "subheadline": "Van verse oesters tot langzaam gegaard vlees — onze chef werkt uitsluitend met lokale, seizoensgebonden ingredienten. Reserveer uw tafel aan de Maas en beleef culinair Rotterdam op zijn best.",
+    "cta_primary": "Reserveer uw tafel",
+    "cta_secondary": "Bekijk het menu",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1200&q=80",
+    "image_alt": "Sfeervol interieur van Restaurant De Maas in Rotterdam met warme verlichting en gedekte tafels",
+    "floating_card_label": "Google Reviews",
+    "floating_card_value": "4.7 / 5",
+    "badges": [
+      { "value": "12+", "label": "Jaar culinaire passie" },
+      { "value": "45.000+", "label": "Gasten per jaar" },
+      { "value": "4.7", "label": "Google score" }
+    ]
+  },
+  "trust": {
+    "label": "Bekend van",
+    "google_score": "4.7",
+    "google_count": "486",
+    "certifications": ["Michelin Bib Gourmand", "Lekker 500", "TripAdvisor Top 10"],
+    "software": ["TheFork", "OpenTable"]
+  },
+  "clients": [
+    { "name": "De Volkskrant", "style": "font-serif text-[16px] italic tracking-tight" },
+    { "name": "LEKKER 500", "style": "text-[11px] font-bold uppercase tracking-[0.25em]" },
+    { "name": "RTL Lifestyle", "style": "text-[13px] font-bold uppercase tracking-[0.15em]" },
+    { "name": "Misset Horeca", "style": "text-[12px] font-bold uppercase tracking-[0.2em]" },
+    { "name": "Iens", "style": "font-serif text-[18px] italic" },
+    { "name": "THE FORK", "style": "text-[12px] font-black uppercase tracking-[0.2em]" },
+    { "name": "Culinaire Ambiance", "style": "font-serif text-[15px] font-normal italic" },
+    { "name": "ROTTERDAM PARTNERS", "style": "text-[10px] font-bold uppercase tracking-[0.3em]" }
+  ],
+  "services": {
+    "label": "Ons Aanbod",
+    "headline_before": "Een culinaire reis door",
+    "headline_emphasis": "de seizoenen",
+    "description": "Elk seizoen brengt nieuwe smaken naar onze keuken. Onze chef creëert verrassende gerechten met de beste lokale ingrediënten — altijd vers, altijd met respect voor het product.",
+    "items": [
+      { "title": "Lunch", "description": "Elke werkdag serveren wij een twee- of driegangenlunch met verse seizoensingrediënten. Ideaal voor een zakelijke afspraak of ontspannen pauze." },
+      { "title": "Diner", "description": "Ons avondmenu biedt drie, vijf of zeven gangen. De chef selecteert dagelijks de beste producten van lokale leveranciers en creëert verrassende combinaties." },
+      { "title": "Wijn & Cocktails", "description": "Onze sommelier stelt een wijnkaart samen met meer dan 150 referenties. Van biodynamische wijnen tot grote Bordeaux — bij elk gerecht het perfecte glas." },
+      { "title": "Privédiner & Groepen", "description": "Ons privézaaltje biedt ruimte aan 8 tot 24 gasten. Ideaal voor verjaardagen, bedrijfsdiners of jubilea met een op maat gemaakt menu." },
+      { "title": "Chef's Table", "description": "Beleef de keuken van dichtbij. Aan onze Chef's Table kookt de chef voor u terwijl u toekijkt. Een unieke ervaring voor 4 tot 8 personen." },
+      { "title": "Catering & Events", "description": "Wij verzorgen ook catering voor bedrijfsevenementen, bruiloften en feesten. Van walking dinner tot zittend vijfgangenmenu — op locatie of bij ons." }
+    ]
+  },
+  "industries": [
+    { "name": "Seizoensmenu's", "desc": "Wisselend aanbod met lokale producten" },
+    { "name": "Wijnspijsarrangementen", "desc": "Deskundig advies van onze sommelier" },
+    { "name": "Zakelijk Dineren", "desc": "Stijlvolle locatie voor bedrijfsdiners" },
+    { "name": "Feesten & Partijen", "desc": "Privézalen voor groepen tot 24 personen" },
+    { "name": "Take-away & Catering", "desc": "Onze gerechten bij u thuis of op locatie" },
+    { "name": "Kookworkshops", "desc": "Leer koken als een chef in onze keuken" }
+  ],
+  "about": {
+    "label": "Over De Maas",
+    "headline": "Lokale ingrediënten.\nVakmanschap. Rotterdamse gastvrijheid.",
+    "paragraph": "Restaurant De Maas is opgericht in 2014 door chef-kok Willem de Boer en gastheer Jasmijn Adriaansen. Wij geloven dat goed eten begint bij eerlijke producten. Daarom werken wij uitsluitend met boeren, vissers en kwekers uit de regio.",
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200&q=80",
+    "image_alt": "Open keuken van Restaurant De Maas met chef-kok aan het werk",
+    "years_experience": "12",
+    "pillars": [
+      { "title": "Lokaal & Seizoensgebonden", "text": "Al onze ingrediënten komen van boeren en leveranciers binnen een straal van 50 kilometer. Wat het seizoen biedt, bepaalt het menu." },
+      { "title": "Ambachtelijke Keuken", "text": "Geen shortcuts, geen halfproducten. Alles wordt huisgemaakt — van het brood en de boter tot de desserts en petit fours." },
+      { "title": "Warme Gastvrijheid", "text": "Wij geloven dat een geweldige avond meer is dan alleen eten. Persoonlijke aandacht, een goed gesprek en de juiste sfeer maken het compleet." }
+    ]
+  },
+  "stats": [
+    { "value": 45000, "suffix": "+", "label": "Gasten per Jaar" },
+    { "value": 12, "suffix": "+", "label": "Jaar Ervaring" },
+    { "value": 150, "suffix": "+", "label": "Wijnen op de Kaart" },
+    { "value": 47, "suffix": "/10", "label": "Google Score" }
+  ],
+  "case_study": {
+    "before_label": "Standaard avondje uit",
+    "before_value": "Gemiddeld restaurant",
+    "after_label": "Bij De Maas",
+    "after_value": "Onvergetelijke ervaring",
+    "savings": "Bib Gourmand",
+    "savings_label": "kwaliteitserkenning Michelin",
+    "client": "Michelin Gids 2025",
+    "description": "heeft Restaurant De Maas bekroond met een Bib Gourmand — een erkenning voor uitstekende prijs-kwaliteitverhouding."
+  },
+  "team": {
+    "label": "Ons Team",
+    "headline_before": "Maak kennis met uw",
+    "headline_emphasis": "gastgevers",
+    "description": "Een gepassioneerd team van chef-koks, sommeliers en gastvrouwen die elke avond het beste van zichzelf geven.",
+    "members": [
+      {
+        "name": "Willem de Boer",
+        "role": "Chef-kok & Eigenaar",
+        "credentials": "Bib Gourmand · 18 jaar ervaring",
+        "bio": "Opgeleid bij De Librije, gespecialiseerd in seizoensgebonden keuken",
+        "image": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=400&q=80",
+        "alt": "Chef-kok Willem de Boer in de keuken van Restaurant De Maas"
+      },
+      {
+        "name": "Jasmijn Adriaansen",
+        "role": "Gastheer & Eigenaar",
+        "credentials": "Sommelier niveau 3 · 15 jaar ervaring",
+        "bio": "Drijvende kracht achter de sfeer, de wijnkaart en het gastencontact",
+        "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&q=80",
+        "alt": "Jasmijn Adriaansen, gastheer en eigenaar van Restaurant De Maas"
+      },
+      {
+        "name": "Marco Visser",
+        "role": "Sous-chef",
+        "credentials": "SVH Meesterkok · 10 jaar ervaring",
+        "bio": "Verantwoordelijk voor de dagelijkse keukenoperatie en productontwikkeling",
+        "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=400&q=80",
+        "alt": "Sous-chef Marco Visser in de keuken"
+      },
+      {
+        "name": "Lotte van der Berg",
+        "role": "Patissier",
+        "credentials": "Cacao Barry Ambassador · 7 jaar ervaring",
+        "bio": "Creëert onze desserts, petit fours en broodassortiment",
+        "image": "https://images.unsplash.com/photo-1594824476967-48c8b964ac31?w=400&q=80",
+        "alt": "Patissier Lotte van der Berg"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "Een absolute aanrader in Rotterdam. Het vijfgangenmenu met wijnparing was een culinaire reis die ik niet snel zal vergeten. De service is warm en persoonlijk — je voelt je direct welkom.",
+      "author": "Peter van Dongen",
+      "title": "Reviewer, Lekker 500",
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80",
+      "alt": "Professionele man met warme uitstraling"
+    },
+    {
+      "quote": "Wij vieren hier al drie jaar onze trouwdag. De Chef's Table is een unieke ervaring — Willem legt elk gerecht uit terwijl hij kookt. De aandacht voor detail is bijzonder.",
+      "author": "Eva & Mark Brouwer",
+      "title": "Vaste gasten, Kralingen",
+      "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&q=80",
+      "alt": "Stel met warme glimlach"
+    },
+    {
+      "quote": "Ons bedrijfsdiner voor 20 personen was van begin tot eind perfect georganiseerd. Het privézaaltje, het menu op maat en de fijne wijnkeuze maakten het een onvergetelijke avond.",
+      "author": "Sandra Willemsen",
+      "title": "HR Director, TechFlow B.V.",
+      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&q=80",
+      "alt": "Professionele vrouw met elegante uitstraling"
+    }
+  ],
+  "process": {
+    "label": "Uw Avond Bij Ons",
+    "headline_before": "Zo verloopt uw",
+    "headline_emphasis": "bezoek",
+    "steps": [
+      { "step": "01", "title": "Reserveer Online", "description": "Boek uw tafel via onze website, TheFork of telefonisch. Vermeld allergieën, dieetwensen of speciale gelegenheden en wij houden er rekening mee." },
+      { "step": "02", "title": "Welkom & Aperitief", "description": "Onze gastheer ontvangt u met een welkomstdrankje en begeleidt u naar uw tafel. Neem de tijd om het menu te ontdekken." },
+      { "step": "03", "title": "Culinaire Beleving", "description": "Geniet van uw gekozen menu met bijpassende wijnen. Elk gerecht wordt door de bediening toegelicht — van herkomst tot bereidingswijze." },
+      { "step": "04", "title": "Dessert & Vertrek", "description": "Sluit af met onze huisgemaakte desserts en een kop koffie of thee. Wij wensen u een fijne avond en hopen u snel weer te mogen verwelkomen." }
+    ]
+  },
+  "calculator": {
+    "business_types": [
+      { "id": "lunch-2", "label": "Lunch 2 gangen", "base": 35 },
+      { "id": "diner-3", "label": "Diner 3 gangen", "base": 55 },
+      { "id": "diner-5", "label": "Diner 5 gangen", "base": 75 },
+      { "id": "chefs-table", "label": "Chef's Table 7 gangen", "base": 125 }
+    ]
+  },
+  "pricing": {
+    "label": "Menu & Prijzen",
+    "headline_before": "Onze menu's voor",
+    "headline_emphasis": "elke gelegenheid",
+    "description": "Van een ontspannen lunch tot een uitgebreid meergangenmenu. Alle prijzen zijn per persoon, exclusief dranken tenzij anders vermeld.",
+    "plans": [
+      {
+        "name": "Lunch",
+        "price": "€35",
+        "period": "/persoon",
+        "description": "Werkdaglunch met seizoensingrediënten",
+        "features": ["2 gangen naar keuze", "Amuse van de chef", "Huisgebakken brood & boter", "Koffie of thee", "Optie: 3 gangen voor €42", "Wijn per glas vanaf €6"],
+        "highlight": false
+      },
+      {
+        "name": "Seizoensmenu",
+        "price": "€75",
+        "period": "/persoon",
+        "description": "Het beste van het seizoen in 5 gangen",
+        "features": ["5 verrassingsgangen", "Amuse & tussengerechtje", "Huisgebakken brood", "Petit fours bij de koffie", "Wijnparing mogelijk (+€45)", "Vegetarische optie beschikbaar"],
+        "highlight": true
+      },
+      {
+        "name": "Chef's Table",
+        "price": "€125",
+        "period": "/persoon",
+        "description": "Exclusieve ervaring voor 4-8 personen",
+        "features": ["7 gangen door de chef", "Uitleg bij elk gerecht", "Premium wijnparing inbegrepen", "Aperitief & digestief", "Privébeleving in de keuken", "Op vrijdag- en zaterdagavond"],
+        "highlight": false
+      }
+    ]
+  },
+  "integrations": ["TheFork", "OpenTable", "Lightspeed", "Deliveroo", "Thuisbezorgd", "Mollie", "Instagram", "Google Reserve"],
+  "blog": {
+    "label": "Culinair Nieuws",
+    "headline_before": "Verhalen uit de",
+    "headline_emphasis": "keuken",
+    "posts": [
+      {
+        "category": "Seizoensmenu",
+        "title": "Voorjaarsmenu 2026: de eerste asperges zijn er",
+        "description": "Witte asperges uit Limburg, Zeeuwse oesters en daslook uit onze eigen tuin — ontdek ons nieuwe voorjaarsmenu.",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80",
+        "date": "15 feb 2026"
+      },
+      {
+        "category": "Wijn",
+        "title": "Drie biodynamische wijnen die u moet proeven",
+        "description": "Onze sommelier Jasmijn selecteerde drie bijzondere biodynamische wijnen die perfect passen bij het voorjaarsseizoen.",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=800&q=80",
+        "date": "8 feb 2026"
+      },
+      {
+        "category": "Achter de Schermen",
+        "title": "Een dag met boer Henk: waar ons vlees vandaan komt",
+        "description": "Wij bezochten onze vaste vleesleverancier in de Hoeksche Waard. Lees het verhaal achter het product.",
+        "image": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=800&q=80",
+        "date": "1 feb 2026"
+      }
+    ]
+  },
+  "faqs": [
+    { "question": "Moet ik van tevoren reserveren?", "answer": "Wij raden het sterk aan, vooral op vrijdag- en zaterdagavond. Via onze website of TheFork kunt u eenvoudig een tafel boeken. Voor de lunch zijn er vaak nog plekken beschikbaar zonder reservering." },
+    { "question": "Houden jullie rekening met allergieën en dieetwensen?", "answer": "Absoluut. Vermeld bij uw reservering uw allergieën of dieetwensen (vegetarisch, veganistisch, glutenvrij, etc.) en onze chef past het menu aan. Wij kunnen bijna alles accommoderen." },
+    { "question": "Is er parkeergelegenheid in de buurt?", "answer": "Er is een openbare parkeergarage (Parkeergarage Witte de With) op 2 minuten lopen van het restaurant. Op straat parkeren is ook mogelijk, maar in het weekend beperkt." },
+    { "question": "Kunnen wij een privédiner organiseren?", "answer": "Ja, ons privézaaltje biedt ruimte aan 8 tot 24 gasten. Wij stellen een op maat gemaakt menu samen en bespreken graag uw wensen. Neem contact op voor beschikbaarheid." },
+    { "question": "Hoe werkt de Chef's Table?", "answer": "De Chef's Table is een exclusieve ervaring voor 4 tot 8 personen. U zit aan een tafel in de keuken terwijl chef Willem de gangen voor u bereidt en toelicht. Beschikbaar op vrijdag- en zaterdagavond, reservering minimaal 1 week van tevoren." },
+    { "question": "Zijn kinderen welkom?", "answer": "Kinderen zijn welkom bij de lunch en op doordeweekse avonden. Wij hebben een kindermenu beschikbaar voor gasten tot 12 jaar (€18, 2 gangen). Op vrijdag- en zaterdagavond richten wij ons op volwassen gasten." },
+    { "question": "Bieden jullie cadeaubonnen aan?", "answer": "Ja, u kunt cadeaubonnen bestellen via onze website of in het restaurant. Beschikbaar vanaf €50, geldig 2 jaar. Een perfect cadeau voor elke gelegenheid." },
+    { "question": "Wat is het dresscode?", "answer": "Wij hanteren geen strikt dresscode, maar vragen onze gasten om smart casual te komen. Denk aan een nette spijkerbroek met overhemd of blouse. Sportkleding en slippers zijn niet gewenst." }
+  ],
+  "cta": {
+    "label": "Reserveer Uw Tafel",
+    "headline": "Beleef een onvergetelijke avond bij De Maas.",
+    "description": "Reserveer online, bel ons of stuur een WhatsApp. Wij ontvangen u graag aan de mooiste tafel van Rotterdam."
+  },
+  "footer": {
+    "diensten": ["Lunch", "Diner", "Chef's Table", "Privédiner", "Catering", "Kookworkshops"],
+    "bedrijf": [
+      { "label": "Over Ons", "href": "#over-ons" },
+      { "label": "Ons Team", "href": "#team" },
+      { "label": "Menu & Prijzen", "href": "#tarieven" },
+      { "label": "Blog", "href": "#" },
+      { "label": "Vacatures", "href": "#" },
+      { "label": "Contact", "href": "#contact" }
+    ]
+  },
+  "sticky_cta": {
+    "title": "Reserveer uw tafel",
+    "subtitle": "Online of telefonisch",
+    "button": "Reserveer nu"
+  },
+  "nav": {
+    "items": ["Menu", "Over Ons", "Team", "Reserveren"],
+    "cta": "Reserveer Nu"
+  },
+  "client_logos": {
+    "label": "Bekend van"
+  },
+  "integrations_label": "Wij zijn te vinden op de grootste platforms",
+  "scheduler": {
+    "title": "Tafel Reserveren",
+    "subtitle": "Kies uw gewenste avond",
+    "step1": {
+      "title": "Welk menu heeft uw voorkeur?",
+      "subtitle": "U kunt dit ter plekke nog wijzigen.",
+      "packages": [
+        { "id": "lunch", "name": "Lunch", "price": "€35/pp", "desc": "2-gangenlunch op werkdagen" },
+        { "id": "seizoensmenu", "name": "Seizoensmenu", "price": "€75/pp", "desc": "5 gangen met de beste seizoensingrediënten", "popular": true },
+        { "id": "chefs-table", "name": "Chef's Table", "price": "€125/pp", "desc": "7 gangen in de keuken (vr-za)" },
+        { "id": "weet-niet", "name": "Weet ik nog niet", "price": "", "desc": "Ter plekke kiezen" }
+      ],
+      "button": "Kies datum & tijd"
+    },
+    "step2": {
+      "title_date": "Kies een datum",
+      "title_time": "Kies een tijd",
+      "button_back": "Terug",
+      "button_next": "Verder"
+    },
+    "step3": {
+      "title": "Uw gegevens",
+      "subtitle": "Zodat wij uw tafel kunnen reserveren.",
+      "fields": {
+        "naam": "Naam *",
+        "email": "E-mail *",
+        "telefoon": "Telefoon *",
+        "bedrijf": "Aantal gasten"
+      },
+      "summary_title": "Samenvatting",
+      "summary_package": "Menu:",
+      "summary_date": "Datum:",
+      "summary_time": "Tijd:",
+      "button_back": "Terug",
+      "button_submit": "Bevestig reservering",
+      "privacy": "Door te bevestigen gaat u akkoord met ons privacybeleid."
+    },
+    "success": {
+      "title": "Reservering bevestigd!",
+      "message": "U ontvangt een bevestiging op"
+    }
+  },
+  "whatsapp": {
+    "message": "Hallo, ik wil graag een tafel reserveren bij Restaurant De Maas.",
+    "tooltip": "Chat via WhatsApp"
+  },
+  "cookie": {
+    "message": "Wij gebruiken cookies om uw ervaring te verbeteren en onze diensten te optimaliseren.",
+    "privacy_link": "Lees ons privacybeleid",
+    "necessary": "Noodzakelijk",
+    "analytics": "Analytisch",
+    "marketing": "Marketing",
+    "accept": "Accepteren",
+    "settings": "Instellingen",
+    "save": "Opslaan",
+    "reject": "Weigeren"
+  },
+  "sections": {
+    "sectoren": "Culinair Aanbod",
+    "sectoren_headline": "Voor elke gelegenheid het juiste menu.",
+    "klantverhalen": "Gastenervaringen",
+    "klantverhalen_headline_before": "Wat onze gasten",
+    "klantverhalen_headline_after": "over ons vertellen",
+    "vraag_label": "Veelgestelde Vragen",
+    "vraag_headline_before": "Vragen die wij",
+    "vraag_headline_after": "vaak krijgen",
+    "vraag_contact": "Staat uw vraag er niet bij? Neem direct contact op.",
+    "prijscalculator_label": "Prijsindicatie",
+    "prijscalculator_headline": "Wat kost een avond bij De Maas?",
+    "prijscalculator_description": "Bekijk onze menu's en stel uw eigen avond samen. Alle prijzen zijn per persoon."
+  },
+  "price_calc_ui": {
+    "bedrijfsvorm": "Menu",
+    "facturen": "Aantal gasten",
+    "personeel": "Wijnparing",
+    "ja": "Ja",
+    "nee": "Nee",
+    "hoeveel": "Welke wijn?",
+    "extra_diensten": "Extra's",
+    "dienst_btw": "Aperitief",
+    "dienst_jaarrekening": "Wijnparing",
+    "dienst_salaris": "Kaasplank",
+    "dienst_fiscaal": "Petit fours",
+    "inbegrepen": "Inbegrepen",
+    "indicatieprijs": "Indicatie per persoon",
+    "per_maand": "/persoon",
+    "excl_btw": "incl. BTW",
+    "marktgemiddelde": "Vergelijkbaar restaurant",
+    "u_bespaart": "Prijs-kwaliteit",
+    "per_jaar": "/avond",
+    "basispakket": "Menu",
+    "factuurverwerking": "Dranken",
+    "personeel_label": "Extra's",
+    "jaarrekening": "Wijnparing",
+    "salarisadministratie": "Aperitief",
+    "fiscaal_advies": "Digestief",
+    "offerte_button": "Reserveer direct",
+    "disclaimer": "Prijzen zijn indicatief en kunnen wijzigen per seizoen.",
+    "advies": "Onze aanbeveling"
+  },
+  "pricing_ui": {
+    "populair": "Favoriet van onze gasten",
+    "kies_pakket": "Reserveer met dit menu",
+    "offerte": "Meer informatie"
+  },
+  "footer_ui": {
+    "contact": "Contact",
+    "bedrijf": "Restaurant",
+    "diensten": "Menu",
+    "copyright": "Alle rechten voorbehouden.",
+    "privacy": "Privacybeleid",
+    "voorwaarden": "Algemene Voorwaarden",
+    "sitemap": "Sitemap"
+  },
+  "extra_sections": [
+    {
+      "id": "restaurant-menu",
+      "type": "menu-section",
+      "position": "after_services",
+      "order": 0,
+      "data": {
+        "label": "Menukaart",
+        "headline": "Ontdek ons seizoensmenu",
+        "categories": [
+          {
+            "name": "Voorgerechten",
+            "items": [
+              { "name": "Zeeuwse oesters (6 stuks)", "description": "Met mignonette, citroen en roggebrood", "price": "€18", "tags": ["popular"] },
+              { "name": "Carpaccio van Wagyu", "description": "Truffel, parmezaan, rucola en pijnboompitten", "price": "€16" },
+              { "name": "Pompoensoep", "description": "Geroosterde pompoen, kokosmelk en pompoenpitten", "price": "€12", "tags": ["vegan"] },
+              { "name": "Steak tartaar", "description": "Handgesneden ossenhaas, kappertjes, augurk en eigeel", "price": "€17", "tags": ["popular"] }
+            ]
+          },
+          {
+            "name": "Hoofdgerechten",
+            "items": [
+              { "name": "Zeetong meunière", "description": "Hele zeetong, bruine boter, kappertjes en citroen", "price": "€38", "tags": ["popular"] },
+              { "name": "Tournedos Rossini", "description": "Ossenhaas, foie gras, truffel en madeirasaus", "price": "€42" },
+              { "name": "Risotto met eekhoorntjesbrood", "description": "Arborio rijst, wilde paddenstoelen en oude kaas", "price": "€26", "tags": ["vegetarian"] },
+              { "name": "Eendenborst", "description": "Kersen, rode kool, aardappelgratin", "price": "€32" }
+            ]
+          },
+          {
+            "name": "Desserts",
+            "items": [
+              { "name": "Crème brûlée", "description": "Klassiek met Tahiti vanille", "price": "€12", "tags": ["popular"] },
+              { "name": "Chocolade fondant", "description": "70% Valrhona chocolade, gezouten karamel-ijs", "price": "€14" },
+              { "name": "Sorbet trilogie", "description": "Seizoensfruit, dagelijks vers gedraaid", "price": "€10", "tags": ["vegan"] },
+              { "name": "Kaasplank", "description": "Selectie van 5 ambachtelijke kazen met compote", "price": "€16" }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "restaurant-reservation-cta",
+      "type": "reservation-cta",
+      "position": "after_about",
+      "order": 0,
+      "data": {
+        "label": "Reserveren",
+        "headline": "Uw tafel wacht op u",
+        "description": "Reserveer online via TheFork of bel ons direct. Op vrijdag- en zaterdagavond raden wij aan minimaal 3 dagen van tevoren te boeken.",
+        "reservationUrl": "https://www.thefork.nl",
+        "phone": "010 — 234 5678"
+      }
+    },
+    {
+      "id": "restaurant-events",
+      "type": "events-calendar",
+      "position": "before_faq",
+      "order": 0,
+      "data": {
+        "label": "Evenementen",
+        "headline": "Komende evenementen bij De Maas",
+        "events": [
+          {
+            "title": "Wijnproeverij: Bourgogne Special",
+            "date": "2026-03-15",
+            "time": "19:00 - 22:00",
+            "description": "Proef 8 exclusieve Bourgogne-wijnen met bijpassende hapjes. Sommelier Jasmijn leidt u door de avond.",
+            "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=800&q=80"
+          },
+          {
+            "title": "Kookworkshop: Italiaans",
+            "date": "2026-03-22",
+            "time": "14:00 - 17:00",
+            "description": "Leer verse pasta maken, de perfecte risotto en een tiramisu onder begeleiding van chef Willem.",
+            "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=800&q=80"
+          },
+          {
+            "title": "Paasbrunch",
+            "date": "2026-04-05",
+            "time": "10:30 - 14:00",
+            "description": "Uitgebreide Paasbrunch met champagne, huisgemaakte patisserie en live muziek. €65 per persoon.",
+            "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80"
+          }
+        ]
+      }
+    },
+    {
+      "id": "restaurant-opening-hours",
+      "type": "opening-hours",
+      "position": "before_footer",
+      "order": 0,
+      "data": {
+        "label": "Openingstijden",
+        "headline": "Wanneer kunt u bij ons terecht",
+        "hours": [
+          { "day": "Monday", "open": "", "close": "", "closed": true },
+          { "day": "Tuesday", "open": "12:00", "close": "15:00" },
+          { "day": "Wednesday", "open": "12:00", "close": "22:00" },
+          { "day": "Thursday", "open": "12:00", "close": "22:00" },
+          { "day": "Friday", "open": "12:00", "close": "23:00" },
+          { "day": "Saturday", "open": "17:00", "close": "23:00" },
+          { "day": "Sunday", "open": "12:00", "close": "16:00" }
+        ],
+        "note": "Keuken sluit 45 minuten voor sluitingstijd. Dinsdag alleen lunch."
+      }
+    }
+  ],
+  "credit": {
+    "show": true,
+    "text": "Designed by",
+    "brand": "Belvair",
+    "url": "https://belvair.nl"
+  }
+}

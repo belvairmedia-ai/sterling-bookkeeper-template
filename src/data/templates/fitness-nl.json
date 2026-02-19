@@ -1,0 +1,474 @@
+{
+  "company": {
+    "name": "FitFactory Utrecht",
+    "logo_initial": "FF",
+    "logo_subtitle": "Sportschool",
+    "city": "Utrecht",
+    "address": "Croeselaan 18",
+    "postcode": "3521 CB",
+    "phone": "030 — 456 7890",
+    "phone_raw": "31304567890",
+    "email": "info@fitfactoryutrecht.nl",
+    "kvk": "54321098",
+    "btw_id": "NL005432109B01",
+    "whatsapp": "31304567890",
+    "description": "Sportschool in Utrecht met personal training, groepslessen, voedingsadvies en revalidatie. Modern uitgerust, professionele begeleiding en een motiverende sfeer."
+  },
+  "hero": {
+    "label": "Sportschool — Utrecht Centrum",
+    "headline_before": "Uw beste versie",
+    "headline_after": "begint hier. Train met",
+    "emphasis": "resultaat",
+    "subheadline": "Van personal training tot groepslessen en voedingsadvies — wij helpen u uw doelen te bereiken met professionele begeleiding, moderne apparatuur en een motiverende community. Eerste proefles gratis.",
+    "cta_primary": "Gratis proefles",
+    "cta_secondary": "Bekijk ons aanbod",
+    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=1200&q=80",
+    "image_alt": "Modern interieur van FitFactory Utrecht met trainingszaal en professionele apparatuur",
+    "floating_card_label": "Gem. resultaat na 3 maanden",
+    "floating_card_value": "-8 kg",
+    "badges": [
+      { "value": "2.000+", "label": "Actieve leden" },
+      { "value": "15+", "label": "Gecertificeerde trainers" },
+      { "value": "50+", "label": "Groepslessen per week" }
+    ]
+  },
+  "trust": {
+    "label": "Gecertificeerd door",
+    "google_score": "4.8",
+    "google_count": "534",
+    "certifications": ["NL Actief Keurmerk", "EREPS", "NASM", "Leefstijlcoach BLCN"],
+    "software": ["Virtuagym", "TrainMore"]
+  },
+  "clients": [
+    { "name": "NL Actief", "style": "text-[12px] font-bold uppercase tracking-[0.2em]" },
+    { "name": "NASM", "style": "text-[13px] font-black uppercase tracking-[0.15em]" },
+    { "name": "Technogym", "style": "font-serif text-[16px] italic tracking-tight" },
+    { "name": "EREPS", "style": "text-[12px] font-bold uppercase tracking-[0.22em]" },
+    { "name": "Life Fitness", "style": "text-[13px] font-bold uppercase tracking-[0.18em]" },
+    { "name": "Virtuagym", "style": "font-serif text-[15px] italic" },
+    { "name": "myprotein", "style": "text-[14px] font-light lowercase tracking-wider" },
+    { "name": "CONCEPT2", "style": "text-[11px] font-black uppercase tracking-[0.25em]" }
+  ],
+  "services": {
+    "label": "Ons Aanbod",
+    "headline_before": "Alles wat u nodig heeft voor",
+    "headline_emphasis": "resultaat",
+    "description": "Of u nu wilt afvallen, spiermassa opbouwen, fitter worden of revalideren — wij bieden een compleet programma met professionele begeleiding op elk niveau.",
+    "items": [
+      { "title": "Personal Training", "description": "Een-op-een training met een gecertificeerde personal trainer. Op maat gemaakt schema, voedingsadvies en wekelijkse voortgangsmetingen voor maximaal resultaat." },
+      { "title": "Groepslessen", "description": "Meer dan 50 lessen per week: HIIT, spinning, yoga, bodypump, boxing en meer. Energieke trainers, motiverende muziek en een community die u vooruitdrijft." },
+      { "title": "Voedingsadvies", "description": "Persoonlijk voedingsplan opgesteld door onze diëtist. Inclusief lichaamssamenstelling-meting, maaltijdschema en 8 weken begeleiding." },
+      { "title": "Revalidatie & Fysiotherapie", "description": "Herstel van blessures onder begeleiding van onze fysiotherapeut. Van sportblessures tot postoperatieve revalidatie — veilig en effectief terugkeren naar uw sport." },
+      { "title": "Vrij Trainen", "description": "Ruim 800 m2 trainingsvloer met Technogym en Life Fitness apparatuur. Vrije gewichten, functionele zone, cardio-afdeling en stretching-area." },
+      { "title": "Online Coaching", "description": "Trainingsschema en voedingsadvies op uw telefoon. Wekelijkse check-ins met uw trainer, video-instructies en progressie-tracking via onze app." }
+    ]
+  },
+  "industries": [
+    { "name": "Beginners", "desc": "Introductie, basis fitness & gewichtsverlies" },
+    { "name": "Gevorderden", "desc": "Spiermassa, kracht & performance" },
+    { "name": "Senioren (55+)", "desc": "Balans, mobiliteit & gezond ouder worden" },
+    { "name": "Revalidatie", "desc": "Blessure-herstel & postoperatief" },
+    { "name": "Bedrijfsfitness", "desc": "Groepstraining & leefstijlprogramma's" },
+    { "name": "Topsport", "desc": "Krachttraining, conditionering & periodisering" }
+  ],
+  "about": {
+    "label": "Over FitFactory",
+    "headline": "Niet gewoon een sportschool.\nUw partner in gezondheid.",
+    "paragraph": "FitFactory is opgericht in 2018 met een missie: fitness toegankelijk maken voor iedereen, met professionele begeleiding die je bij een dure personal trainer verwacht. Wij geloven dat resultaat begint bij de juiste begeleiding — daarom investeren wij in de beste trainers en de nieuwste apparatuur.",
+    "image": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=1200&q=80",
+    "image_alt": "Trainingszaal van FitFactory Utrecht met leden en trainers",
+    "years_experience": "8",
+    "pillars": [
+      { "title": "Professionele Begeleiding", "text": "Al onze trainers zijn NASM-, EREPS- of ALO-gecertificeerd. Geen bijbaantje-trainers — alleen professionals die resultaat leveren." },
+      { "title": "Moderne Apparatuur", "text": "800 m2 trainingsvloer uitgerust met Technogym en Life Fitness. Vrije gewichten, functionele zone, cardio en een complete groepsleszaal." },
+      { "title": "Community & Motivatie", "text": "Bij FitFactory traint u niet alleen. Onze community-events, challenges en groepslessen zorgen voor motivatie en plezier." }
+    ]
+  },
+  "stats": [
+    { "value": 2000, "suffix": "+", "label": "Actieve Leden" },
+    { "value": 50, "suffix": "+", "label": "Lessen per Week" },
+    { "value": 800, "suffix": "m2", "label": "Trainingsvloer" },
+    { "value": 48, "suffix": "/10", "label": "Google Score" }
+  ],
+  "case_study": {
+    "before_label": "Start traject",
+    "before_value": "92 kg — weinig energie",
+    "after_label": "Na 12 weken",
+    "after_value": "80 kg — fit en energiek",
+    "savings": "-12 kg",
+    "savings_label": "gemiddeld resultaat body transformation",
+    "client": "Thomas, 38 jaar",
+    "description": "startte met ons 12-weken transformatieprogramma. Met personal training 3x per week en een persoonlijk voedingsplan verloor hij 12 kg en voelt hij zich beter dan ooit."
+  },
+  "team": {
+    "label": "Onze Trainers",
+    "headline_before": "Maak kennis met uw",
+    "headline_emphasis": "personal trainer",
+    "description": "Vijftien gecertificeerde trainers die u begeleiden naar uw doel. Van afvallen tot topsport — wij hebben de expertise in huis.",
+    "members": [
+      {
+        "name": "Rick van Dijk",
+        "role": "Head Trainer & Eigenaar",
+        "credentials": "NASM-CPT · EREPS Level 4 · 12 jaar ervaring",
+        "bio": "Gespecialiseerd in body transformations en krachttraining",
+        "image": "https://images.unsplash.com/photo-1567013127542-490d757e51fc?w=400&q=80",
+        "alt": "Rick van Dijk, head trainer bij FitFactory Utrecht"
+      },
+      {
+        "name": "Daniëlle Smit",
+        "role": "Personal Trainer & Voedingscoach",
+        "credentials": "BLCN Leefstijlcoach · ALO · 8 jaar ervaring",
+        "bio": "Expert in voedingsadvies en gewichtsmanagement",
+        "image": "https://images.unsplash.com/photo-1594381898411-846e7d193883?w=400&q=80",
+        "alt": "Daniëlle Smit, personal trainer en voedingscoach"
+      },
+      {
+        "name": "Youssef Amrani",
+        "role": "Personal Trainer & Boxing Coach",
+        "credentials": "NASM-CPT · Kickboks trainer A · 6 jaar ervaring",
+        "bio": "Combineert functional training met kickboks-elementen",
+        "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=400&q=80",
+        "alt": "Youssef Amrani, personal trainer en boxing coach"
+      },
+      {
+        "name": "Lisa de Graaf",
+        "role": "Yoga & Mindfulness Trainer",
+        "credentials": "RYT-500 · Meditatielehrer · 10 jaar ervaring",
+        "bio": "Yoga, ademhalingsoefeningen en stressmanagement",
+        "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&q=80",
+        "alt": "Lisa de Graaf, yoga en mindfulness trainer"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "In 12 weken 12 kilo kwijt en meer energie dan ooit. Rick stelde een plan samen dat werkt met mijn drukke baan. De combinatie van training en voedingsadvies maakt het verschil.",
+      "author": "Thomas Vermeer",
+      "title": "Body Transformation, Utrecht",
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80",
+      "alt": "Sportieve man met tevreden uitdrukking"
+    },
+    {
+      "quote": "Na mijn knieblessure dacht ik dat ik nooit meer zou hardlopen. De revalidatietraining bij FitFactory bracht mij stap voor stap terug. Vorige maand liep ik mijn eerste 10 km weer.",
+      "author": "Kirsten Jacobs",
+      "title": "Revalidatie-lid, Nieuwegein",
+      "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&q=80",
+      "alt": "Sportieve vrouw met brede glimlach"
+    },
+    {
+      "quote": "De groepslessen zijn fantastisch. De trainers zorgen voor variatie en motivatie. Ik kom hier nu 4 keer per week en het voelt niet als een verplichting maar als een feestje.",
+      "author": "Amina Hassan",
+      "title": "Groepslessen-lid, Utrecht",
+      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&q=80",
+      "alt": "Energieke vrouw na een groepsles"
+    }
+  ],
+  "process": {
+    "label": "Start Vandaag",
+    "headline_before": "In vier stappen naar",
+    "headline_emphasis": "uw doel",
+    "steps": [
+      { "step": "01", "title": "Gratis Proefles", "description": "Kom langs voor een gratis proeftraining. Wij laten u de sportschool zien, bespreken uw doelen en u traint direct mee in een groepsles of met een trainer." },
+      { "step": "02", "title": "Intake & Body Scan", "description": "Bij inschrijving meten wij uw lichaamssamenstelling, bespreken wij uw doelen en stellen wij een persoonlijk trainingsplan op." },
+      { "step": "03", "title": "Training & Begeleiding", "description": "U traint volgens uw plan — alleen of met een trainer. Elke 4 weken evalueren wij uw voortgang en passen wij het schema aan." },
+      { "step": "04", "title": "Resultaat & Vervolg", "description": "Na het eerste traject meten wij opnieuw en vieren wij uw resultaat. Samen bepalen wij de vervolgstappen richting uw volgende doel." }
+    ]
+  },
+  "calculator": {
+    "business_types": [
+      { "id": "basic", "label": "Basis (vrij trainen)", "base": 30 },
+      { "id": "plus", "label": "Plus (incl. groepslessen)", "base": 45 },
+      { "id": "pt", "label": "Personal Training (1x/week)", "base": 149 },
+      { "id": "unlimited", "label": "Unlimited (alles inbegrepen)", "base": 99 }
+    ]
+  },
+  "pricing": {
+    "label": "Abonnementen",
+    "headline_before": "Kies het abonnement dat",
+    "headline_emphasis": "bij u past",
+    "description": "Flexibel opzegbaar, geen inschrijfgeld en de eerste proefles gratis. Alle prijzen zijn per maand inclusief BTW.",
+    "plans": [
+      {
+        "name": "Basis",
+        "price": "€29,95",
+        "period": "/maand",
+        "description": "Vrij trainen op alle apparatuur",
+        "features": ["Onbeperkt vrij trainen", "Alle cardio- & krachtapparatuur", "Kleedkamers met douches", "Gratis WiFi", "Virtuagym app", "Maandelijks opzegbaar"],
+        "highlight": false
+      },
+      {
+        "name": "All-In",
+        "price": "€49,95",
+        "period": "/maand",
+        "description": "Vrij trainen plus alle groepslessen",
+        "features": ["Alles uit Basis", "50+ groepslessen per week", "Yoga, HIIT, spinning, boxing", "Sauna & stoomcabine", "Intake met body scan", "Persoonlijk trainingsschema"],
+        "highlight": true
+      },
+      {
+        "name": "Personal Training",
+        "price": "€149",
+        "period": "/maand",
+        "description": "1x per week training met uw eigen trainer",
+        "features": ["Alles uit All-In", "Wekelijkse PT-sessie (1 uur)", "Persoonlijk voedingsplan", "Maandelijkse voortgangsmeting", "Trainingsschema op maat", "WhatsApp-support met trainer", "Online coaching via app"],
+        "highlight": false
+      }
+    ]
+  },
+  "integrations": ["Technogym", "Life Fitness", "Concept2", "Virtuagym", "MyFitnessPal", "Apple Health", "Garmin", "Mollie"],
+  "blog": {
+    "label": "Fitness Tips",
+    "headline_before": "Tips en inspiratie voor",
+    "headline_emphasis": "een fitter leven",
+    "posts": [
+      {
+        "category": "Training",
+        "title": "5 fouten die beginners in de sportschool maken",
+        "description": "Van te zwaar trainen tot geen plan hebben — ontdek de meest voorkomende fouten en hoe u ze voorkomt.",
+        "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&q=80",
+        "date": "12 feb 2026"
+      },
+      {
+        "category": "Voeding",
+        "title": "Eiwitten: hoeveel heeft u echt nodig?",
+        "description": "De waarheid over eiwitinname voor spieropbouw. Hoeveel gram per dag, welke bronnen en wanneer.",
+        "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=800&q=80",
+        "date": "5 feb 2026"
+      },
+      {
+        "category": "Lifestyle",
+        "title": "Hoe u consistentie opbouwt (zonder motivatie)",
+        "description": "Motivatie komt en gaat. Consistentie is de sleutel. 4 praktische strategieën om blijvend te sporten.",
+        "image": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800&q=80",
+        "date": "29 jan 2026"
+      }
+    ]
+  },
+  "faqs": [
+    { "question": "Kan ik eerst vrijblijvend komen kijken?", "answer": "Absoluut! Wij bieden een gratis proefles aan. U kunt meedoen met een groepsles of een korte training doen onder begeleiding van een trainer. Zo ervaart u de sfeer en de faciliteiten zonder verplichting." },
+    { "question": "Moet ik ervaring hebben om te beginnen?", "answer": "Nee, wij verwelkomen alle niveaus. Bij uw inschrijving krijgt u een intake met body scan en een persoonlijk trainingsschema. Onze trainers leggen alle oefeningen uit en begeleiden u tot u ze zelfstandig kunt uitvoeren." },
+    { "question": "Hoe werkt opzeggen?", "answer": "Alle abonnementen zijn maandelijks opzegbaar na de eerste 3 maanden. U kunt opzeggen via de Virtuagym app, per e-mail of aan de balie. Geen opzegboete, geen kleine lettertjes." },
+    { "question": "Zijn de groepslessen ook voor beginners?", "answer": "Ja, alle groepslessen zijn geschikt voor beginners. De trainer geeft altijd alternatieve oefeningen voor wie nog niet alles kan. Bij twijfel raden wij aan te beginnen met yoga, bodypump of de beginnerssessie op maandagochtend." },
+    { "question": "Wat houdt personal training precies in?", "answer": "U traint wekelijks 1 uur met een vaste, gecertificeerde trainer. Die maakt een trainingsschema op maat, begeleidt elke oefening en past het plan elke 4 weken aan op basis van uw voortgang. Inclusief voedingsadvies en WhatsApp-support." },
+    { "question": "Bieden jullie bedrijfsfitness aan?", "answer": "Ja, wij werken samen met meerdere bedrijven in Utrecht. Werknemers krijgen korting op alle abonnementen en wij kunnen groepstrainingen op locatie of in onze sportschool verzorgen. Neem contact op voor een offerte op maat." },
+    { "question": "Hebben jullie een sauna?", "answer": "Ja, bij het All-In en Personal Training abonnement heeft u onbeperkt toegang tot onze Finse sauna en stoomcabine. Na de training ideaal voor herstel en ontspanning." },
+    { "question": "Tot hoe laat zijn jullie open?", "answer": "Wij zijn geopend van maandag t/m vrijdag van 06:00 tot 22:00 en in het weekend van 08:00 tot 18:00. Op feestdagen hanteren wij verkorte openingstijden. De actuele tijden vindt u altijd in de Virtuagym app." }
+  ],
+  "cta": {
+    "label": "Begin Vandaag",
+    "headline": "Start met uw gratis proefles.",
+    "description": "Kom langs, bel ons of boek online. De eerste les is gratis — geen verplichtingen, alleen resultaat."
+  },
+  "footer": {
+    "diensten": ["Personal Training", "Groepslessen", "Voedingsadvies", "Revalidatie", "Vrij Trainen", "Online Coaching"],
+    "bedrijf": [
+      { "label": "Over Ons", "href": "#over-ons" },
+      { "label": "Ons Team", "href": "#team" },
+      { "label": "Abonnementen", "href": "#tarieven" },
+      { "label": "Blog", "href": "#" },
+      { "label": "Vacatures", "href": "#" },
+      { "label": "Contact", "href": "#contact" }
+    ]
+  },
+  "sticky_cta": {
+    "title": "Gratis proefles",
+    "subtitle": "Vandaag nog starten",
+    "button": "Boek nu"
+  },
+  "nav": {
+    "items": ["Aanbod", "Over Ons", "Trainers", "Abonnementen"],
+    "cta": "Gratis Proefles"
+  },
+  "client_logos": {
+    "label": "Gecertificeerd en uitgerust met de beste merken"
+  },
+  "integrations_label": "Wij werken met de beste fitness technologie",
+  "scheduler": {
+    "title": "Gratis Proefles",
+    "subtitle": "Ervaar FitFactory zonder verplichtingen",
+    "step1": {
+      "title": "Waar bent u in geinteresseerd?",
+      "subtitle": "Wij stemmen de proefles af op uw interesse.",
+      "packages": [
+        { "id": "vrij-trainen", "name": "Vrij Trainen", "price": "Gratis", "desc": "Ontdek onze trainingsvloer" },
+        { "id": "groepsles", "name": "Groepsles", "price": "Gratis", "desc": "Doe mee met een les naar keuze", "popular": true },
+        { "id": "personal-training", "name": "Personal Training", "price": "Gratis", "desc": "Kennismaking met een trainer" },
+        { "id": "weet-niet", "name": "Weet ik nog niet", "price": "", "desc": "Wij adviseren u ter plekke" }
+      ],
+      "button": "Kies datum & tijd"
+    },
+    "step2": {
+      "title_date": "Kies een datum",
+      "title_time": "Kies een tijd",
+      "button_back": "Terug",
+      "button_next": "Verder"
+    },
+    "step3": {
+      "title": "Uw gegevens",
+      "subtitle": "Zodat wij u kunnen verwachten.",
+      "fields": {
+        "naam": "Naam *",
+        "email": "E-mail *",
+        "telefoon": "Telefoon",
+        "bedrijf": "Doel (bijv. afvallen, spiermassa)"
+      },
+      "summary_title": "Samenvatting",
+      "summary_package": "Interesse:",
+      "summary_date": "Datum:",
+      "summary_time": "Tijd:",
+      "button_back": "Terug",
+      "button_submit": "Bevestig proefles",
+      "privacy": "Door te bevestigen gaat u akkoord met ons privacybeleid."
+    },
+    "success": {
+      "title": "Proefles geboekt!",
+      "message": "U ontvangt een bevestiging op"
+    }
+  },
+  "whatsapp": {
+    "message": "Hallo, ik wil graag een gratis proefles boeken bij FitFactory.",
+    "tooltip": "Chat via WhatsApp"
+  },
+  "cookie": {
+    "message": "Wij gebruiken cookies om uw ervaring te verbeteren en onze diensten te optimaliseren.",
+    "privacy_link": "Lees ons privacybeleid",
+    "necessary": "Noodzakelijk",
+    "analytics": "Analytisch",
+    "marketing": "Marketing",
+    "accept": "Accepteren",
+    "settings": "Instellingen",
+    "save": "Opslaan",
+    "reject": "Weigeren"
+  },
+  "sections": {
+    "sectoren": "Voor Iedereen",
+    "sectoren_headline": "Training op elk niveau, voor elk doel.",
+    "klantverhalen": "Succesverhalen",
+    "klantverhalen_headline_before": "Wat onze leden",
+    "klantverhalen_headline_after": "over ons zeggen",
+    "vraag_label": "Veelgestelde Vragen",
+    "vraag_headline_before": "Vragen die wij",
+    "vraag_headline_after": "vaak krijgen",
+    "vraag_contact": "Heeft u een andere vraag? Neem direct contact op.",
+    "prijscalculator_label": "Prijsvergelijker",
+    "prijscalculator_headline": "Wat kost uw sportschool? Vergelijk.",
+    "prijscalculator_description": "Kies het abonnement dat past bij uw doelen. Flexibel, transparant en zonder kleine lettertjes."
+  },
+  "price_calc_ui": {
+    "bedrijfsvorm": "Abonnement",
+    "facturen": "Trainingen per week",
+    "personeel": "Personal Training",
+    "ja": "Ja",
+    "nee": "Nee",
+    "hoeveel": "Hoe vaak per week?",
+    "extra_diensten": "Extra's",
+    "dienst_btw": "Voedingsadvies",
+    "dienst_jaarrekening": "Body scan",
+    "dienst_salaris": "Sauna",
+    "dienst_fiscaal": "Online coaching",
+    "inbegrepen": "Inbegrepen",
+    "indicatieprijs": "Uw maandbedrag",
+    "per_maand": "/maand",
+    "excl_btw": "incl. BTW",
+    "marktgemiddelde": "Gemiddelde sportschool",
+    "u_bespaart": "Uw voordeel",
+    "per_jaar": "/jaar",
+    "basispakket": "Basis",
+    "factuurverwerking": "Groepslessen",
+    "personeel_label": "Personal Training",
+    "jaarrekening": "Sauna",
+    "salarisadministratie": "Voedingsadvies",
+    "fiscaal_advies": "Online coaching",
+    "offerte_button": "Start uw gratis proefles",
+    "disclaimer": "Prijzen inclusief BTW. Abonnementen maandelijks opzegbaar na 3 maanden.",
+    "advies": "Onze aanbeveling"
+  },
+  "pricing_ui": {
+    "populair": "Populairste keuze",
+    "kies_pakket": "Kies dit abonnement",
+    "offerte": "Meer informatie"
+  },
+  "footer_ui": {
+    "contact": "Contact",
+    "bedrijf": "FitFactory",
+    "diensten": "Aanbod",
+    "copyright": "Alle rechten voorbehouden.",
+    "privacy": "Privacybeleid",
+    "voorwaarden": "Algemene Voorwaarden",
+    "sitemap": "Sitemap"
+  },
+  "extra_sections": [
+    {
+      "id": "fitness-booking",
+      "type": "booking-widget",
+      "position": "after_services",
+      "order": 0,
+      "data": {
+        "label": "Direct Boeken",
+        "headline": "Boek uw training of groepsles",
+        "description": "Kies uw gewenste training en reserveer direct een plekje. Personal training sessies zijn ook los te boeken.",
+        "bookingUrl": "https://app.virtuagym.com/fitfactoryutrecht",
+        "services": [
+          { "name": "Groepsles (bijv. HIIT, Yoga)", "duration": "45-60 min", "price": "Inbegrepen*" },
+          { "name": "Personal Training — enkele sessie", "duration": "60 min", "price": "€55" },
+          { "name": "Personal Training — 10-rittenkaart", "duration": "10 x 60 min", "price": "€449" },
+          { "name": "Intake + Body Scan", "duration": "30 min", "price": "Gratis bij inschrijving" },
+          { "name": "Voedingsconsult", "duration": "45 min", "price": "€65" }
+        ]
+      }
+    },
+    {
+      "id": "fitness-offers",
+      "type": "special-offers",
+      "position": "after_pricing",
+      "order": 0,
+      "data": {
+        "label": "Acties",
+        "headline": "Profiteer van onze lopende acties",
+        "offers": [
+          {
+            "title": "Lente Challenge — 8 weken transformatie",
+            "description": "Start 1 maart met ons 8-weken transformatieprogramma. Inclusief personal training 2x/week, voedingsplan en wekelijkse metingen. Beperkt tot 20 deelnemers.",
+            "discount": "-20%",
+            "validUntil": "2026-03-01",
+            "code": "LENTE2026"
+          },
+          {
+            "title": "Breng een vriend — eerste maand gratis",
+            "description": "Schrijf u samen in met een vriend en u krijgt allebei de eerste maand gratis. Geldig voor alle abonnementen.",
+            "discount": "1 maand gratis",
+            "validUntil": "2026-04-30"
+          },
+          {
+            "title": "Bedrijfsfitness — 15% teamkorting",
+            "description": "Inschrijving met 5 of meer collega's? Ontvang 15% korting op alle abonnementen. Inclusief gratis intake voor iedereen.",
+            "discount": "-15%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fitness-gallery",
+      "type": "gallery-masonry",
+      "position": "after_about",
+      "order": 0,
+      "data": {
+        "label": "Onze Sportschool",
+        "headline": "Bekijk onze faciliteiten",
+        "images": [
+          { "src": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&q=80", "alt": "Ruime trainingsvloer met moderne apparatuur", "caption": "800 m2 trainingsvloer" },
+          { "src": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800&q=80", "alt": "Groepsles in actie", "caption": "50+ groepslessen per week" },
+          { "src": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?w=800&q=80", "alt": "Vrije gewichten zone", "caption": "Complete free weights area" },
+          { "src": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&q=80", "alt": "Yoga en stretching ruimte", "caption": "Yoga studio met daglicht" },
+          { "src": "https://images.unsplash.com/photo-1570829460005-c840387bb1ca?w=800&q=80", "alt": "Spinning zaal", "caption": "Spinning studio met 30 bikes" },
+          { "src": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&q=80", "alt": "Functionele trainingszone", "caption": "Functional training area" }
+        ]
+      }
+    }
+  ],
+  "credit": {
+    "show": true,
+    "text": "Designed by",
+    "brand": "Belvair",
+    "url": "https://belvair.nl"
+  }
+}

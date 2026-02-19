@@ -1,0 +1,448 @@
+{
+  "company": {
+    "name": "Van Houten & Bakker Advocaten",
+    "logo_initial": "VH",
+    "logo_subtitle": "Advocaten",
+    "city": "Den Haag",
+    "address": "Lange Voorhout 15",
+    "postcode": "2514 EA",
+    "phone": "070 — 345 6789",
+    "phone_raw": "31703456789",
+    "email": "info@vanhoutenadvocaten.nl",
+    "kvk": "65432109",
+    "btw_id": "NL006543210B01",
+    "whatsapp": "31703456789",
+    "description": "Advocatenkantoor in Den Haag. Gespecialiseerd in arbeidsrecht, ondernemingsrecht, familierecht en strafrecht. Persoonlijk, deskundig en resultaatgericht."
+  },
+  "hero": {
+    "label": "Advocaten — Den Haag",
+    "headline_before": "Uw juridische",
+    "headline_after": "belangen. In handen van",
+    "emphasis": "ervaren advocaten",
+    "subheadline": "Van arbeidsgeschillen tot ondernemingsrecht — wij staan u bij met deskundig juridisch advies en sterke procesvoering. Persoonlijke begeleiding door een vaste advocaat, transparante tarieven en een trackrecord van resultaten.",
+    "cta_primary": "Gratis kennismaking",
+    "cta_secondary": "Bekijk onze expertises",
+    "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200&q=80",
+    "image_alt": "Modern advocatenkantoor in Den Haag met professionele advocaten in overleg",
+    "floating_card_label": "Zaken gewonnen",
+    "floating_card_value": "94%",
+    "badges": [
+      { "value": "25+", "label": "Jaar ervaring" },
+      { "value": "2.500+", "label": "Zaken behandeld" },
+      { "value": "94%", "label": "Succesvol afgerond" }
+    ]
+  },
+  "trust": {
+    "label": "Erkend door",
+    "google_score": "4.9",
+    "google_count": "89",
+    "certifications": ["Nederlandse Orde van Advocaten", "Chambers & Partners", "Legal 500", "Best Lawyers"],
+    "software": ["Legal Eagle", "Kleos"]
+  },
+  "clients": [
+    { "name": "Chambers & Partners", "style": "font-serif text-[15px] italic tracking-tight" },
+    { "name": "LEGAL 500", "style": "text-[12px] font-bold uppercase tracking-[0.25em]" },
+    { "name": "Best Lawyers", "style": "font-serif text-[17px] italic" },
+    { "name": "NOVA", "style": "text-[13px] font-black uppercase tracking-[0.15em]" },
+    { "name": "Advocatenblad", "style": "font-serif text-[16px] font-normal italic" },
+    { "name": "MR. ONLINE", "style": "text-[11px] font-bold uppercase tracking-[0.2em]" },
+    { "name": "juridisch up to date", "style": "text-[14px] font-light lowercase tracking-wider" },
+    { "name": "DE RECHTSPRAAK", "style": "text-[10px] font-bold uppercase tracking-[0.3em]" }
+  ],
+  "services": {
+    "label": "Rechtsgebieden",
+    "headline_before": "Juridische expertise op",
+    "headline_emphasis": "zes gebieden",
+    "description": "Wij bieden deskundig advies en sterke procesvoering op de rechtsgebieden die het meest relevant zijn voor ondernemers en particulieren. Elke zaak krijgt de volle aandacht van een gespecialiseerde advocaat.",
+    "items": [
+      { "title": "Arbeidsrecht", "description": "Van ontslag en reorganisatie tot arbeidsovereenkomsten en non-concurrentiebedingen. Wij staan zowel werkgevers als werknemers bij." },
+      { "title": "Ondernemingsrecht", "description": "Oprichting, fusies, aandeelhoudersgeschillen en bestuurdersaansprakelijkheid. Juridisch fundament voor uw onderneming." },
+      { "title": "Familierecht", "description": "Echtscheiding, alimentatie, gezag en omgangsregelingen. Wij begeleiden u door een moeilijke periode met empathie en expertise." },
+      { "title": "Strafrecht", "description": "Bijstand bij verhoor, rechtbankprocedures en hoger beroep. Wij verdedigen uw rechten met overtuiging en voorbereiding." },
+      { "title": "Vastgoedrecht", "description": "Koop- en huurgeschillen, projectontwikkeling en VvE-recht. Bescherming van uw vastgoedbelangen." },
+      { "title": "Incasso & Contracten", "description": "Opstellen van waterdichte contracten en effectieve incasso bij wanbetaling. Wij zorgen dat u krijgt waar u recht op heeft." }
+    ]
+  },
+  "industries": [
+    { "name": "MKB & Ondernemers", "desc": "Contracten, geschillen & compliance" },
+    { "name": "Vastgoed & Bouw", "desc": "Huur, koop & aanneming van werk" },
+    { "name": "Zorg & Welzijn", "desc": "Arbeidsrecht, tuchtrecht & subsidies" },
+    { "name": "Tech & Startups", "desc": "Aandeelhoudersovereenkomsten & IP" },
+    { "name": "Overheid & Semi-publiek", "desc": "Bestuursrecht & aanbestedingen" },
+    { "name": "Particulieren", "desc": "Familierecht, strafrecht & erfrecht" }
+  ],
+  "about": {
+    "label": "Over Van Houten & Bakker",
+    "headline": "Deskundig advies.\nPersoonlijke aanpak. Resultaatgericht.",
+    "paragraph": "Van Houten & Bakker is opgericht in 2001 als boutique advocatenkantoor in het hart van Den Haag. Wij geloven dat juridisch advies pas waardevol is als het begrijpelijk, praktisch en resultaatgericht is. Elke client werkt met een vaste advocaat die de zaak van A tot Z begeleidt.",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73b4c9e0a4e?w=1200&q=80",
+    "image_alt": "Stijlvol interieur van advocatenkantoor Van Houten & Bakker aan het Lange Voorhout in Den Haag",
+    "years_experience": "25",
+    "pillars": [
+      { "title": "Vaste Advocaat", "text": "Elke client werkt met een vaste, ervaren advocaat die de zaak door en door kent. Geen juniors, geen wisselingen — u weet altijd wie u belt." },
+      { "title": "Transparante Kosten", "text": "Vooraf duidelijkheid over kosten en doorlooptijd. Vaste prijsafspraken waar mogelijk, uurtarief op verzoek. Nooit verrassingen op de factuur." },
+      { "title": "Procesvoering & Onderhandeling", "text": "Wij combineren sterke procesvoering met pragmatisch onderhandelen. Het doel is altijd het beste resultaat — binnen of buiten de rechtszaal." }
+    ]
+  },
+  "stats": [
+    { "value": 2500, "suffix": "+", "label": "Zaken Behandeld" },
+    { "value": 94, "suffix": "%", "label": "Succesvol Afgerond" },
+    { "value": 25, "suffix": "+", "label": "Jaar Ervaring" },
+    { "value": 6, "suffix": "", "label": "Rechtsgebieden" }
+  ],
+  "case_study": {
+    "before_label": "Situatie client",
+    "before_value": "Onterecht ontslag",
+    "after_label": "Resultaat",
+    "after_value": "€85.000 vergoeding",
+    "savings": "€85.000",
+    "savings_label": "billijke vergoeding verkregen",
+    "client": "Zaak arbeidsrecht — 2025",
+    "description": "Een directeur werd na 12 jaar dienstverband onterecht op staande voet ontslagen. Wij vochten de zaak aan bij de kantonrechter en verkregen een billijke vergoeding van €85.000."
+  },
+  "team": {
+    "label": "Onze Advocaten",
+    "headline_before": "Maak kennis met uw",
+    "headline_emphasis": "juridisch team",
+    "description": "Vijf advocaten met elk hun eigen specialisatie, samen meer dan 75 jaar ervaring in de rechtszaal en aan de onderhandelingstafel.",
+    "members": [
+      {
+        "name": "Mr. Anna van Houten",
+        "role": "Partner — Arbeidsrecht",
+        "credentials": "Chambers Ranked · 25 jaar ervaring",
+        "bio": "Leidend in arbeidsrechtelijke geschillen en reorganisaties",
+        "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80",
+        "alt": "Mr. Anna van Houten, partner arbeidsrecht bij Van Houten & Bakker"
+      },
+      {
+        "name": "Mr. Pieter Bakker",
+        "role": "Partner — Ondernemingsrecht",
+        "credentials": "Legal 500 Recommended · 22 jaar ervaring",
+        "bio": "Expert in M&A, aandeelhoudersgeschillen en bestuurdersaansprakelijkheid",
+        "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&q=80",
+        "alt": "Mr. Pieter Bakker, partner ondernemingsrecht bij Van Houten & Bakker"
+      },
+      {
+        "name": "Mr. Sarah Osman",
+        "role": "Senior Advocaat — Familierecht",
+        "credentials": "vFAS lid · Mediator · 15 jaar ervaring",
+        "bio": "Gespecialiseerd in complexe echtscheidingen en internationale kinderontvoeringen",
+        "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&q=80",
+        "alt": "Mr. Sarah Osman, senior advocaat familierecht"
+      },
+      {
+        "name": "Mr. David Timmerman",
+        "role": "Advocaat — Strafrecht",
+        "credentials": "NVSA lid · 12 jaar ervaring",
+        "bio": "Verdediging in economische en commune strafzaken",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+        "alt": "Mr. David Timmerman, advocaat strafrecht"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "Mr. Van Houten heeft mij bijgestaan bij een ontslagzaak die onmogelijk leek. Haar kennis van arbeidsrecht en strategisch inzicht leverden een resultaat op dat mijn verwachtingen ver overtrof.",
+      "author": "Erik de Graaf",
+      "title": "Voormalig directeur, technologiebedrijf",
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80",
+      "alt": "Professionele man met zelfverzekerde uitdrukking"
+    },
+    {
+      "quote": "Bij de verkoop van ons familiebedrijf was Mr. Bakker onze rots in de branding. Hij begeleidde het M&A-traject van due diligence tot closing — scherp, secuur en altijd bereikbaar.",
+      "author": "Ingrid Mulder",
+      "title": "Ondernemer, Mulder Logistics B.V.",
+      "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&q=80",
+      "alt": "Onderneemster met warme glimlach"
+    },
+    {
+      "quote": "De echtscheiding was emotioneel zwaar, maar Mr. Osman begeleidde mij met empathie en professionaliteit. Ze zorgde voor een eerlijke regeling voor de kinderen en mij.",
+      "author": "Marjan Verhoef",
+      "title": "Particulier, Den Haag",
+      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&q=80",
+      "alt": "Vrouw met rustige uitstraling"
+    }
+  ],
+  "process": {
+    "label": "Hoe Wij Werken",
+    "headline_before": "Uw zaak in",
+    "headline_emphasis": "vier stappen",
+    "steps": [
+      { "step": "01", "title": "Gratis Kennismaking", "description": "Een vrijblijvend gesprek van 30 minuten met een van onze advocaten. Wij luisteren naar uw situatie en geven een eerste inschatting van uw positie en de haalbaarheid." },
+      { "step": "02", "title": "Strategie & Kosten", "description": "Wij stellen een heldere strategie op met een transparante kostenraming. U weet vooraf wat u kunt verwachten — juridisch en financieel." },
+      { "step": "03", "title": "Uitvoering", "description": "Uw advocaat voert de strategie uit: onderhandeling, mediation of procesvoering. U wordt bij elke stap geïnformeerd en betrokken." },
+      { "step": "04", "title": "Afronding & Nazorg", "description": "Na afloop evalueren wij het resultaat en adviseren wij over vervolgstappen. Desgewenst stellen wij contracten of regelingen op om herhaling te voorkomen." }
+    ]
+  },
+  "calculator": {
+    "business_types": [
+      { "id": "advies", "label": "Juridisch advies (per uur)", "base": 250 },
+      { "id": "procedure", "label": "Gerechtelijke procedure", "base": 3500 },
+      { "id": "mediation", "label": "Mediation", "base": 1500 },
+      { "id": "contract", "label": "Contract opstellen", "base": 750 }
+    ]
+  },
+  "pricing": {
+    "label": "Tarieven",
+    "headline_before": "Transparante",
+    "headline_emphasis": "juridische tarieven",
+    "description": "Wij bieden vooraf duidelijkheid over kosten. Vaste prijzen waar mogelijk, uurtarief wanneer nodig. Pro Deo en toevoeging op aanvraag.",
+    "plans": [
+      {
+        "name": "Adviesgesprek",
+        "price": "€250",
+        "period": "/uur",
+        "description": "Juridisch advies op uurbasis",
+        "features": ["Telefonisch of op kantoor", "Schriftelijk advies", "Contractbeoordeling", "Eerste inschatting zaak", "E-mail support", "Kennismaking gratis (30 min)"],
+        "highlight": false
+      },
+      {
+        "name": "Zaakbegeleiding",
+        "price": "€3.500",
+        "period": "/zaak",
+        "description": "Complete juridische bijstand voor uw zaak",
+        "features": ["Alles uit Adviesgesprek", "Procesvoering of onderhandeling", "Dagvaarding of verweerschrift", "Correspondentie wederpartij", "Zitting(en) bijwonen", "Vaste advocaat", "Tussentijdse rapportage"],
+        "highlight": true
+      },
+      {
+        "name": "Ondernemerspakket",
+        "price": "Op maat",
+        "period": "",
+        "description": "Doorlopend juridisch advies voor ondernemers",
+        "features": ["Alles uit Zaakbegeleiding", "Retainerovereenkomst", "Contracten opstellen & reviewen", "Arbeidsrechtelijk advies", "Compliance & governance", "Priority support", "Jaarlijkse juridische scan"],
+        "highlight": false
+      }
+    ]
+  },
+  "integrations": ["Kleos", "Legal Eagle", "Wolters Kluwer", "Rechtspraak.nl", "Overheid.nl", "DigiD Machtiging", "KvK API", "UWV Werkgeversportaal"],
+  "blog": {
+    "label": "Juridisch Nieuws",
+    "headline_before": "Actuele inzichten voor",
+    "headline_emphasis": "ondernemers en particulieren",
+    "posts": [
+      {
+        "category": "Arbeidsrecht",
+        "title": "Nieuwe ontslagregels 2026: wat verandert er voor werkgevers?",
+        "description": "Per 1 januari 2026 gelden nieuwe regels voor ontslag. Lees wat dit betekent voor uw organisatie en hoe u zich voorbereidt.",
+        "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=800&q=80",
+        "date": "14 feb 2026"
+      },
+      {
+        "category": "Ondernemingsrecht",
+        "title": "Bestuurdersaansprakelijkheid: wanneer bent u persoonlijk aansprakelijk?",
+        "description": "Als bestuurder van een BV kunt u persoonlijk aansprakelijk zijn. Leer wanneer dit risico speelt en hoe u het beperkt.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "date": "7 feb 2026"
+      },
+      {
+        "category": "Familierecht",
+        "title": "Alimentatie berekenen in 2026: de complete gids",
+        "description": "Hoe wordt alimentatie berekend? Welke factoren spelen mee? Een helder overzicht voor wie gaat scheiden.",
+        "image": "https://images.unsplash.com/photo-1507679799987-c73b4c9e0a4e?w=800&q=80",
+        "date": "30 jan 2026"
+      }
+    ]
+  },
+  "faqs": [
+    { "question": "Wat kost een advocaat per uur?", "answer": "Ons standaard uurtarief is €250 exclusief BTW. Voor complexe zaken of specialismen kan dit variëren. Wij geven vooraf altijd een transparante kostenraming zodat u niet voor verrassingen staat. Het eerste kennismakingsgesprek van 30 minuten is gratis." },
+    { "question": "Kom ik in aanmerking voor gesubsidieerde rechtsbijstand?", "answer": "Als uw inkomen en vermogen onder bepaalde grenzen vallen, kunt u in aanmerking komen voor een toevoeging (pro Deo). Wij checken dit graag voor u tijdens het kennismakingsgesprek en helpen desgewenst bij de aanvraag." },
+    { "question": "Hoe lang duurt een gerechtelijke procedure?", "answer": "Dit varieert sterk per rechtsgebied. Een arbeidsrechtelijke kort geding duurt 2-4 weken. Een echtscheidingsprocedure 3-6 maanden. Een civiele bodemprocedure 6-18 maanden. Wij geven bij de intake altijd een realistische tijdsinschatting." },
+    { "question": "Kan ik ook terecht voor mediation?", "answer": "Ja, Mr. Osman is gecertificeerd mediator (MfN-register). Mediation is vaak sneller, goedkoper en minder belastend dan een procedure. Wij adviseren mediation wanneer de situatie zich ervoor leent." },
+    { "question": "Werken jullie ook op basis van no cure no pay?", "answer": "In Nederland is no cure no pay voor advocaten slechts beperkt toegestaan. Wij bieden waar mogelijk resultaatgerichte afspraken, zoals een lager basistarief met een success fee. Dit bespreken wij graag persoonlijk." },
+    { "question": "Ik heb dringend een advocaat nodig — hoe snel kunnen jullie reageren?", "answer": "Bij spoedzaken (arrestatie, beslaglegging, kort geding) zijn wij dezelfde dag bereikbaar. Bel ons op 070 — 345 6789 en vermeld dat het urgent is. Buiten kantooruren zijn wij bereikbaar via het piketummer." }
+  ],
+  "cta": {
+    "label": "Neem Contact Op",
+    "headline": "Bespreek uw zaak vrijblijvend met een advocaat.",
+    "description": "Bel ons, mail ons of plan een gratis kennismakingsgesprek van 30 minuten. Wij luisteren naar uw situatie en geven een eerste inschatting — zonder verplichtingen."
+  },
+  "footer": {
+    "diensten": ["Arbeidsrecht", "Ondernemingsrecht", "Familierecht", "Strafrecht", "Vastgoedrecht", "Incasso"],
+    "bedrijf": [
+      { "label": "Over Ons", "href": "#over-ons" },
+      { "label": "Ons Team", "href": "#team" },
+      { "label": "Tarieven", "href": "#tarieven" },
+      { "label": "Blog", "href": "#" },
+      { "label": "Vacatures", "href": "#" },
+      { "label": "Contact", "href": "#contact" }
+    ]
+  },
+  "sticky_cta": {
+    "title": "Gratis kennismaking",
+    "subtitle": "30 min — vrijblijvend",
+    "button": "Plan nu"
+  },
+  "nav": {
+    "items": ["Expertises", "Over Ons", "Team", "Tarieven"],
+    "cta": "Gratis Kennismaking"
+  },
+  "client_logos": {
+    "label": "Erkend door vooraanstaande juridische gidsen"
+  },
+  "integrations_label": "Wij werken met professionele juridische systemen",
+  "scheduler": {
+    "title": "Gratis Kennismakingsgesprek",
+    "subtitle": "30 minuten — vrijblijvend",
+    "step1": {
+      "title": "Op welk rechtsgebied heeft u een vraag?",
+      "subtitle": "Wij koppelen u aan de juiste advocaat.",
+      "packages": [
+        { "id": "arbeidsrecht", "name": "Arbeidsrecht", "price": "", "desc": "Ontslag, contracten & reorganisatie" },
+        { "id": "ondernemingsrecht", "name": "Ondernemingsrecht", "price": "", "desc": "BV, fusies & geschillen", "popular": true },
+        { "id": "familierecht", "name": "Familierecht", "price": "", "desc": "Echtscheiding, alimentatie & gezag" },
+        { "id": "overig", "name": "Overig / Weet ik niet", "price": "", "desc": "Wij verwijzen u door naar de juiste expert" }
+      ],
+      "button": "Kies datum & tijd"
+    },
+    "step2": {
+      "title_date": "Kies een datum",
+      "title_time": "Kies een tijd",
+      "button_back": "Terug",
+      "button_next": "Verder"
+    },
+    "step3": {
+      "title": "Uw gegevens",
+      "subtitle": "Zodat wij u kunnen bevestigen.",
+      "fields": {
+        "naam": "Naam *",
+        "email": "E-mail *",
+        "telefoon": "Telefoon",
+        "bedrijf": "Bedrijfsnaam (optioneel)"
+      },
+      "summary_title": "Samenvatting",
+      "summary_package": "Rechtsgebied:",
+      "summary_date": "Datum:",
+      "summary_time": "Tijd:",
+      "button_back": "Terug",
+      "button_submit": "Bevestig afspraak",
+      "privacy": "Door te bevestigen gaat u akkoord met ons privacybeleid."
+    },
+    "success": {
+      "title": "Afspraak ingepland!",
+      "message": "U ontvangt een bevestiging op"
+    }
+  },
+  "whatsapp": {
+    "message": "Hallo, ik heb een juridische vraag en wil graag een afspraak maken.",
+    "tooltip": "Chat via WhatsApp"
+  },
+  "cookie": {
+    "message": "Wij gebruiken cookies om uw ervaring te verbeteren en onze diensten te optimaliseren.",
+    "privacy_link": "Lees ons privacybeleid",
+    "necessary": "Noodzakelijk",
+    "analytics": "Analytisch",
+    "marketing": "Marketing",
+    "accept": "Accepteren",
+    "settings": "Instellingen",
+    "save": "Opslaan",
+    "reject": "Weigeren"
+  },
+  "sections": {
+    "sectoren": "Sectoren",
+    "sectoren_headline": "Wij kennen de juridische uitdagingen van uw branche.",
+    "klantverhalen": "Clientervaringen",
+    "klantverhalen_headline_before": "Wat onze clienten",
+    "klantverhalen_headline_after": "over ons zeggen",
+    "vraag_label": "Veelgestelde Vragen",
+    "vraag_headline_before": "Vragen die wij",
+    "vraag_headline_after": "vaak horen",
+    "vraag_contact": "Heeft u een specifieke juridische vraag? Neem direct contact op.",
+    "prijscalculator_label": "Kostenoverzicht",
+    "prijscalculator_headline": "Wat kost een advocaat? Een transparant overzicht.",
+    "prijscalculator_description": "Wij geloven in transparantie. Bekijk onze tarieven en vraag een kostenraming op maat."
+  },
+  "price_calc_ui": {
+    "bedrijfsvorm": "Type zaak",
+    "facturen": "Complexiteit",
+    "personeel": "Procesvoering nodig",
+    "ja": "Ja",
+    "nee": "Nee",
+    "hoeveel": "Welk type procedure?",
+    "extra_diensten": "Extra diensten",
+    "dienst_btw": "Contractreview",
+    "dienst_jaarrekening": "Due diligence",
+    "dienst_salaris": "Mediation",
+    "dienst_fiscaal": "Hoger beroep",
+    "inbegrepen": "Inbegrepen",
+    "indicatieprijs": "Indicatie kosten",
+    "per_maand": "/zaak",
+    "excl_btw": "excl. BTW",
+    "marktgemiddelde": "Marktgemiddelde",
+    "u_bespaart": "Transparant",
+    "per_jaar": "/traject",
+    "basispakket": "Advies",
+    "factuurverwerking": "Procesvoering",
+    "personeel_label": "Procedure",
+    "jaarrekening": "Due diligence",
+    "salarisadministratie": "Mediation",
+    "fiscaal_advies": "Hoger beroep",
+    "offerte_button": "Vraag een kostenraming aan",
+    "disclaimer": "Dit is een indicatie. De exacte kosten bespreken wij tijdens de kennismaking.",
+    "advies": "Ons advies"
+  },
+  "pricing_ui": {
+    "populair": "Meest gekozen",
+    "kies_pakket": "Kies dit pakket",
+    "offerte": "Offerte aanvragen"
+  },
+  "footer_ui": {
+    "contact": "Contact",
+    "bedrijf": "Kantoor",
+    "diensten": "Rechtsgebieden",
+    "copyright": "Alle rechten voorbehouden.",
+    "privacy": "Privacybeleid",
+    "voorwaarden": "Algemene Voorwaarden",
+    "sitemap": "Sitemap"
+  },
+  "extra_sections": [
+    {
+      "id": "law-awards",
+      "type": "awards-and-badges",
+      "position": "after_hero",
+      "order": 0,
+      "data": {
+        "label": "Erkenningen",
+        "headline": "Erkend door de toonaangevende juridische gidsen",
+        "awards": [
+          { "name": "Chambers & Partners — Ranked Firm", "year": "2025", "issuer": "Chambers & Partners", "description": "Erkend als toonaangevend kantoor voor arbeidsrecht in Nederland" },
+          { "name": "Legal 500 — Recommended", "year": "2025", "issuer": "Legal 500", "description": "Aanbevolen voor ondernemingsrecht en M&A" },
+          { "name": "Best Lawyers — Mr. Van Houten", "year": "2024", "issuer": "Best Lawyers", "description": "Mr. Anna van Houten erkend als Best Lawyer in Labour Law" },
+          { "name": "Advocatenblad Top 50", "year": "2024", "issuer": "NOvA", "description": "Genomineerd in de top 50 kantoren van Nederland" }
+        ]
+      }
+    },
+    {
+      "id": "law-comparison",
+      "type": "comparison-table",
+      "position": "after_pricing",
+      "order": 0,
+      "data": {
+        "label": "Vergelijking",
+        "headline": "Van Houten & Bakker vs. de rest",
+        "description": "Ontdek waarom clienten voor ons kiezen boven grote kantoren en online juridische diensten.",
+        "columns": [
+          { "name": "Groot kantoor" },
+          { "name": "Van Houten & Bakker", "highlighted": true },
+          { "name": "Online dienst" }
+        ],
+        "rows": [
+          { "feature": "Vaste advocaat", "values": [false, true, false] },
+          { "feature": "Gratis kennismaking", "values": [false, true, true] },
+          { "feature": "Procesvoering", "values": [true, true, false] },
+          { "feature": "Transparante kosten", "values": [false, true, true] },
+          { "feature": "Persoonlijke aandacht", "values": [false, true, false] },
+          { "feature": "Specialistische kennis", "values": [true, true, false] },
+          { "feature": "Bereikbaar in weekend", "values": [false, true, false] },
+          { "feature": "Mediation", "values": [true, true, false] }
+        ],
+        "footnote": "Vergelijking op basis van gemiddelde ervaring van clienten in 2024-2025."
+      }
+    }
+  ],
+  "credit": {
+    "show": true,
+    "text": "Designed by",
+    "brand": "Belvair",
+    "url": "https://belvair.nl"
+  }
+}

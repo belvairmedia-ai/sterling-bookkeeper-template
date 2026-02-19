@@ -1,0 +1,458 @@
+{
+  "company": {
+    "name": "Garage Van den Berg",
+    "logo_initial": "VB",
+    "logo_subtitle": "Autogarage",
+    "city": "Eindhoven",
+    "address": "Kennedylaan 87",
+    "postcode": "5611 ZT",
+    "phone": "040 — 567 8901",
+    "phone_raw": "31405678901",
+    "email": "info@garagevandenberg.nl",
+    "kvk": "43210987",
+    "btw_id": "NL004321098B01",
+    "whatsapp": "31405678901",
+    "description": "Autogarage in Eindhoven voor APK-keuring, onderhoud, bandenservice en reparatie. RDW-erkend, alle merken en transparante prijzen."
+  },
+  "hero": {
+    "label": "Autogarage — Eindhoven",
+    "headline_before": "Uw auto",
+    "headline_after": "in vertrouwde handen. Eerlijk, vakkundig en",
+    "emphasis": "altijd transparant",
+    "subheadline": "Van APK-keuring tot grote reparatie — wij onderhouden uw auto met vakmanschap en eerlijke prijzen. RDW-erkend, alle merken welkom en altijd vooraf een duidelijke offerte. Geen verrassingen op de factuur.",
+    "cta_primary": "Plan uw afspraak",
+    "cta_secondary": "Bekijk onze diensten",
+    "image": "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=1200&q=80",
+    "image_alt": "Professionele monteur aan het werk in Garage Van den Berg in Eindhoven",
+    "floating_card_label": "Gem. besparing t.o.v. dealer",
+    "floating_card_value": "35%",
+    "badges": [
+      { "value": "30+", "label": "Jaar ervaring" },
+      { "value": "12.000+", "label": "Auto's onderhouden" },
+      { "value": "4.9", "label": "Google score" }
+    ]
+  },
+  "trust": {
+    "label": "Erkend door",
+    "google_score": "4.9",
+    "google_count": "267",
+    "certifications": ["RDW Erkend", "BOVAG", "Focwa", "APK Keurstation"],
+    "software": ["Carteam", "Tecdoc"]
+  },
+  "clients": [
+    { "name": "BOVAG", "style": "text-[13px] font-bold uppercase tracking-[0.2em]" },
+    { "name": "RDW", "style": "text-[15px] font-black uppercase tracking-[0.15em]" },
+    { "name": "Focwa", "style": "text-[12px] font-bold uppercase tracking-[0.22em]" },
+    { "name": "CARTEAM", "style": "text-[11px] font-bold uppercase tracking-[0.25em]" },
+    { "name": "Euromaster", "style": "font-serif text-[15px] italic tracking-tight" },
+    { "name": "CASTROL", "style": "text-[12px] font-black uppercase tracking-[0.2em]" },
+    { "name": "Bosch Car Service", "style": "text-[10px] font-bold uppercase tracking-[0.18em]" },
+    { "name": "CONTINENTAL", "style": "text-[11px] font-bold uppercase tracking-[0.3em]" }
+  ],
+  "services": {
+    "label": "Onze Diensten",
+    "headline_before": "Complete autoservice voor",
+    "headline_emphasis": "elk merk",
+    "description": "Van kleine onderhoudsbeurt tot complexe reparatie — wij zijn uw alles-in-een garage. RDW-erkend APK-keurstation, BOVAG-lid en uitgerust met de nieuwste diagnoseapparatuur.",
+    "items": [
+      { "title": "APK-keuring", "description": "Officieel RDW-erkend keurstation. Uw APK snel en vakkundig uitgevoerd. Afkeur? Wij repareren direct en herkeuren gratis." },
+      { "title": "Onderhoud & Service", "description": "Kleine en grote onderhoudsbeurten voor alle merken. Volgens fabrieksvoorschrift met originele of OE-kwaliteit onderdelen. Uw garantie blijft behouden." },
+      { "title": "Bandenservice", "description": "Bandenwisselen, uitlijnen, balanceren en seizoensopslag. Wij adviseren u over de beste band voor uw rijstijl en budget." },
+      { "title": "Aircoservice", "description": "Airco bijvullen, desinfecteren en repareren. Wij werken met R134a en R1234yf koelmiddelen. Na vulling altijd een lektest." },
+      { "title": "Uitlaat & Katalysator", "description": "Uitlaatreparatie, vervanging en roetfilter reiniging. Milieuproblemen bij APK? Wij lossen het op." },
+      { "title": "Remmen & Vering", "description": "Remblokken, remschijven, schokdempers en veren. Veiligheid staat voorop — wij gebruiken uitsluitend A-merk onderdelen." }
+    ]
+  },
+  "industries": [
+    { "name": "Particulieren", "desc": "Onderhoud, APK & reparatie voor uw eigen auto" },
+    { "name": "Lease & Zakelijk", "desc": "Wagenpark onderhoud & schadeafhandeling" },
+    { "name": "Oldtimers & Klassiekers", "desc": "Restauratie, onderhoud & APK-vrijstelling" },
+    { "name": "Elektrisch & Hybride", "desc": "Onderhoud, accu-diagnose & laadpaal advies" },
+    { "name": "Bedrijfswagens", "desc": "Bus, bestel & licht transport" },
+    { "name": "Schadeherstel", "desc": "Lakwerk, deuken & verzekeringszaken" }
+  ],
+  "about": {
+    "label": "Over Garage Van den Berg",
+    "headline": "Familiebedrijf sinds 1994.\nEerlijk, vakkundig, transparant.",
+    "paragraph": "Garage Van den Berg is al drie decennia het adres voor betrouwbaar auto-onderhoud in Eindhoven. Opgericht door Jan van den Berg en nu gerund met zijn zoons, combineren wij ambachtelijk vakmanschap met moderne diagnoseapparatuur. Wij werken voor u, niet voor de dealer.",
+    "image": "https://images.unsplash.com/photo-1625047509248-ec889cbff17f?w=1200&q=80",
+    "image_alt": "Werkplaats van Garage Van den Berg in Eindhoven met hefbruggen en professionele uitrusting",
+    "years_experience": "30",
+    "pillars": [
+      { "title": "Eerlijke Prijzen", "text": "Geen verborgen kosten, geen onnodige reparaties. U ontvangt altijd vooraf een duidelijke offerte. Wij bellen u als wij iets extra's tegenkomen — nooit zonder toestemming." },
+      { "title": "Alle Merken Welkom", "text": "Van Volkswagen tot Tesla, van Fiat tot BMW — wij onderhouden en repareren alle merken. Fabrieksgarantie blijft behouden conform Europese regelgeving." },
+      { "title": "Modern Uitgerust", "text": "Diagnoseapparatuur voor alle merken, 4 hefbruggen, uitlijnbank, aircovulstation en bandenbalanceermachine. Alles onder een dak." }
+    ]
+  },
+  "stats": [
+    { "value": 12000, "suffix": "+", "label": "Auto's Onderhouden" },
+    { "value": 30, "suffix": "+", "label": "Jaar Ervaring" },
+    { "value": 35, "suffix": "%", "label": "Goedkoper dan Dealer" },
+    { "value": 49, "suffix": "/5", "label": "Google Score" }
+  ],
+  "case_study": {
+    "before_label": "Dealerofferte",
+    "before_value": "€1.450",
+    "after_label": "Bij Van den Berg",
+    "after_value": "€895",
+    "savings": "€555",
+    "savings_label": "bespaard op grote onderhoudsbeurt VW Golf",
+    "client": "Familie Kuijpers, Eindhoven",
+    "description": "kreeg bij de dealer een offerte van €1.450 voor een grote beurt met distributieriem. Bij ons: €895 met dezelfde originele onderdelen en behoud van fabrieksgarantie."
+  },
+  "team": {
+    "label": "Ons Team",
+    "headline_before": "Maak kennis met uw",
+    "headline_emphasis": "monteurs",
+    "description": "Vijf ervaren monteurs met samen meer dan 80 jaar ervaring in auto-onderhoud en reparatie.",
+    "members": [
+      {
+        "name": "Jan van den Berg",
+        "role": "Eigenaar & Hoofdmonteur",
+        "credentials": "MBO Autotechniek · APK-keurmeester · 30 jaar ervaring",
+        "bio": "Oprichter en specialist in motordiagnose en complexe reparaties",
+        "image": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?w=400&q=80",
+        "alt": "Jan van den Berg, eigenaar en hoofdmonteur van Garage Van den Berg"
+      },
+      {
+        "name": "Mark van den Berg",
+        "role": "Monteur & EV-specialist",
+        "credentials": "HTO Automotive · NEN 9140 · 10 jaar ervaring",
+        "bio": "Gespecialiseerd in elektrische en hybride voertuigen",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+        "alt": "Mark van den Berg, monteur en EV-specialist"
+      },
+      {
+        "name": "Sven Willems",
+        "role": "Monteur & Bandenspecialist",
+        "credentials": "MBO Autotechniek · TPMS-gecertificeerd · 15 jaar ervaring",
+        "bio": "Expert in wieluitlijning, banden en onderstelwerk",
+        "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&q=80",
+        "alt": "Sven Willems, monteur en bandenspecialist"
+      },
+      {
+        "name": "Fatih Yilmaz",
+        "role": "Monteur & Aircotechnicus",
+        "credentials": "F-gassen certificaat · MBO Autotechniek · 12 jaar ervaring",
+        "bio": "Specialist in airconditioning en klimaatsystemen",
+        "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80",
+        "alt": "Fatih Yilmaz, monteur en aircotechnicus"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "Al 15 jaar klant bij Van den Berg. Eerlijke prijzen, duidelijke uitleg en altijd een belletje als ze iets tegenkomen. Ik vertrouw geen andere garage meer met mijn auto.",
+      "author": "Peter Kuijpers",
+      "title": "Vaste klant, Eindhoven",
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80",
+      "alt": "Tevreden klant met zijn auto"
+    },
+    {
+      "quote": "Mijn Tesla Model 3 had een probleem met de vering. Mark van den Berg loste het op voor de helft van wat Tesla zelf vroeg. Vakmanschap en eerlijkheid — dat is het verschil.",
+      "author": "Lisa Groenewoud",
+      "title": "Tesla-eigenaar, Veldhoven",
+      "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&q=80",
+      "alt": "Vrouw bij haar elektrische auto"
+    },
+    {
+      "quote": "Als ondernemer met 8 bestelbussen heb ik een betrouwbare garage nodig. Van den Berg onderhoudt ons hele wagenpark — altijd op tijd, altijd binnen budget.",
+      "author": "Hassan El Moussaoui",
+      "title": "Eigenaar, Snel Transport B.V.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+      "alt": "Ondernemer voor zijn bedrijfswagen"
+    }
+  ],
+  "process": {
+    "label": "Hoe Het Werkt",
+    "headline_before": "Uw auto-onderhoud in",
+    "headline_emphasis": "vier stappen",
+    "steps": [
+      { "step": "01", "title": "Afspraak Maken", "description": "Bel ons, boek online of stuur een WhatsApp. Wij plannen uw afspraak op een moment dat u uitkomt — vaak al dezelfde week." },
+      { "step": "02", "title": "Intake & Inspectie", "description": "Bij binnenkomst inspecteren wij uw auto grondig. U ontvangt een duidelijke offerte met alle bevindingen — inclusief foto's als u dat wenst." },
+      { "step": "03", "title": "Reparatie & Onderhoud", "description": "Na uw akkoord gaan wij aan het werk. Duurt het langer dan verwacht? Wij bellen u. Extra werk alleen met uw toestemming." },
+      { "step": "04", "title": "Oplevering & Garantie", "description": "Uw auto wordt schoon opgeleverd met uitleg over het uitgevoerde werk. Op alle onderdelen en arbeid geven wij minimaal 12 maanden garantie." }
+    ]
+  },
+  "calculator": {
+    "business_types": [
+      { "id": "apk", "label": "APK-keuring", "base": 35 },
+      { "id": "kleine-beurt", "label": "Kleine onderhoudsbeurt", "base": 149 },
+      { "id": "grote-beurt", "label": "Grote onderhoudsbeurt", "base": 295 },
+      { "id": "distributie", "label": "Distributieriemset", "base": 450 }
+    ]
+  },
+  "pricing": {
+    "label": "Tarieven",
+    "headline_before": "Transparante",
+    "headline_emphasis": "garage-tarieven",
+    "description": "Alle prijzen zijn inclusief BTW en arbeidsloon. Onderdelen worden apart berekend tegen kostprijs + marge. Altijd vooraf een offerte.",
+    "plans": [
+      {
+        "name": "APK-keuring",
+        "price": "€34,95",
+        "period": "/keuring",
+        "description": "Officieel RDW-erkende APK",
+        "features": ["Volledige APK-keuring", "RDW-rapportage", "Gratis herkeuring bij afkeur", "Advies over aandachtspunten", "Binnen 45 minuten klaar", "Zonder afspraak welkom"],
+        "highlight": false
+      },
+      {
+        "name": "Onderhoudsbeurt",
+        "price": "€149",
+        "period": "/beurt",
+        "description": "Kleine beurt volgens fabrieksvoorschrift",
+        "features": ["Olie- en filtervervanging", "Vloeistoffencontrole", "Remmeninspectie", "Bandencheck & spanning", "Verlichting & ruitenwissers", "Digitaal inspectierapport", "12 maanden garantie"],
+        "highlight": true
+      },
+      {
+        "name": "Totaalonderhoud",
+        "price": "€295",
+        "period": "/beurt",
+        "description": "Grote beurt met uitgebreide inspectie",
+        "features": ["Alles uit onderhoudsbeurt", "Bougies / gloeibougies", "Lucht- en interieurfilter", "Remvloeistof verversen", "Accu- en laadtest", "Uitlaat- en onderstelcheck", "Proefrit & eindcontrole", "Wasbeurt inbegrepen"],
+        "highlight": false
+      }
+    ]
+  },
+  "integrations": ["Carteam", "Tecdoc", "Autodata", "Bosch ESI", "RDW Online", "BOVAG Garantie", "Euromaster", "Continental"],
+  "blog": {
+    "label": "Autotips",
+    "headline_before": "Praktische tips voor",
+    "headline_emphasis": "autobestuurders",
+    "posts": [
+      {
+        "category": "Onderhoud",
+        "title": "Winterbanden wisselen: wanneer en waarom?",
+        "description": "Alles wat u moet weten over het wisselen van winterbanden. Wanneer is het verplicht en wat zijn de risico's als u het uitstelt?",
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&q=80",
+        "date": "10 feb 2026"
+      },
+      {
+        "category": "APK",
+        "title": "APK-keuring: de 5 meest voorkomende afkeurpunten",
+        "description": "Voorkom een onverwachte afkeur. Dit zijn de vijf meest voorkomende redenen waarom auto's de APK niet halen.",
+        "image": "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=800&q=80",
+        "date": "3 feb 2026"
+      },
+      {
+        "category": "Elektrisch Rijden",
+        "title": "Onderhoud aan uw EV: wat is er anders?",
+        "description": "Elektrische auto's hebben minder onderhoud nodig, maar het is niet nul. Lees welke onderhoudspunten belangrijk blijven.",
+        "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800&q=80",
+        "date": "27 jan 2026"
+      }
+    ]
+  },
+  "faqs": [
+    { "question": "Behoud ik mijn fabrieksgarantie als ik bij jullie kom?", "answer": "Ja, volgens Europese regelgeving (Groepsvrijstellingsverordening) mag u uw auto bij elke erkende garage laten onderhouden met behoud van fabrieksgarantie. Wij werken met originele of OE-kwaliteit onderdelen en volgen de fabrieksvoorschriften." },
+    { "question": "Hoe snel kan ik terecht voor een APK?", "answer": "Vaak dezelfde dag of de volgende werkdag. Voor een APK-keuring hoeft u niet eens een afspraak te maken — u kunt zonder afspraak langskomen tussen 08:00 en 16:00. De keuring duurt circa 45 minuten." },
+    { "question": "Werken jullie ook aan elektrische auto's?", "answer": "Ja, onze monteur Mark van den Berg is NEN 9140-gecertificeerd voor het werken aan hoogspanningssystemen. Wij onderhouden en repareren Tesla, Hyundai, Kia, VW en andere elektrische merken." },
+    { "question": "Krijg ik een leenauto tijdens de reparatie?", "answer": "Ja, wij hebben twee leenauto's beschikbaar voor klanten die hun auto langer dan een dag bij ons laten. Reserveer deze bij het maken van uw afspraak. Kosten: gratis bij reparaties boven €250." },
+    { "question": "Hoe worden de kosten berekend?", "answer": "Ons uurtarief is €75 inclusief BTW. Onderdelen worden berekend tegen kostprijs plus een marge van 25%. U ontvangt altijd vooraf een offerte. Meerwerk voeren wij alleen uit na telefonisch overleg en uw akkoord." },
+    { "question": "Kan ik mijn banden bij jullie laten opslaan?", "answer": "Ja, wij bieden seizoensopslag aan voor €45 per seizoen (inclusief wisselen). Uw banden worden bewaard in onze geklimatiseerde opslagruimte en wij bellen u als het tijd is om te wisselen." },
+    { "question": "Accepteren jullie ook leasemachtigingen?", "answer": "Ja, wij werken samen met alle grote leasemaatschappijen. U hoeft alleen uw leasepas mee te nemen. Wij handelen de facturatie rechtstreeks af met uw leasebedrijf." },
+    { "question": "Wat voor garantie geven jullie op reparaties?", "answer": "Op alle onderdelen en arbeid geven wij minimaal 12 maanden garantie. Bij gebruik van originele onderdelen geldt vaak een langere fabrieksgarantie. De garantievoorwaarden staan vermeld op uw factuur." }
+  ],
+  "cta": {
+    "label": "Afspraak Maken",
+    "headline": "Plan uw afspraak — snel, eerlijk en vakkundig.",
+    "description": "Bel ons, boek online of stuur een WhatsApp. Wij plannen uw afspraak op een moment dat u uitkomt en u weet altijd vooraf wat het gaat kosten."
+  },
+  "footer": {
+    "diensten": ["APK-keuring", "Onderhoud", "Bandenservice", "Aircoservice", "Uitlaat & Katalysator", "Remmen & Vering"],
+    "bedrijf": [
+      { "label": "Over Ons", "href": "#over-ons" },
+      { "label": "Ons Team", "href": "#team" },
+      { "label": "Tarieven", "href": "#tarieven" },
+      { "label": "Blog", "href": "#" },
+      { "label": "Vacatures", "href": "#" },
+      { "label": "Contact", "href": "#contact" }
+    ]
+  },
+  "sticky_cta": {
+    "title": "Afspraak maken",
+    "subtitle": "Vaak dezelfde week",
+    "button": "Plan nu"
+  },
+  "nav": {
+    "items": ["Diensten", "Over Ons", "Team", "Tarieven"],
+    "cta": "Afspraak Maken"
+  },
+  "client_logos": {
+    "label": "RDW-erkend en aangesloten bij brancheorganisaties"
+  },
+  "integrations_label": "Wij werken met professionele diagnose- en onderdelensystemen",
+  "scheduler": {
+    "title": "Afspraak Maken",
+    "subtitle": "Plan uw garage-bezoek",
+    "step1": {
+      "title": "Welke dienst heeft u nodig?",
+      "subtitle": "Wij plannen de juiste tijd in.",
+      "packages": [
+        { "id": "apk", "name": "APK-keuring", "price": "€34,95", "desc": "Officieel RDW-erkend" },
+        { "id": "onderhoud", "name": "Onderhoudsbeurt", "price": "Vanaf €149", "desc": "Klein of groot onderhoud", "popular": true },
+        { "id": "reparatie", "name": "Reparatie", "price": "Op offerte", "desc": "Diagnose en herstel" },
+        { "id": "overig", "name": "Overig / Weet ik niet", "price": "", "desc": "Wij adviseren u" }
+      ],
+      "button": "Kies datum & tijd"
+    },
+    "step2": {
+      "title_date": "Kies een datum",
+      "title_time": "Kies een tijd",
+      "button_back": "Terug",
+      "button_next": "Verder"
+    },
+    "step3": {
+      "title": "Uw gegevens",
+      "subtitle": "Zodat wij u kunnen bevestigen.",
+      "fields": {
+        "naam": "Naam *",
+        "email": "E-mail *",
+        "telefoon": "Telefoon *",
+        "bedrijf": "Kenteken auto"
+      },
+      "summary_title": "Samenvatting",
+      "summary_package": "Dienst:",
+      "summary_date": "Datum:",
+      "summary_time": "Tijd:",
+      "button_back": "Terug",
+      "button_submit": "Bevestig afspraak",
+      "privacy": "Door te bevestigen gaat u akkoord met ons privacybeleid."
+    },
+    "success": {
+      "title": "Afspraak bevestigd!",
+      "message": "U ontvangt een bevestiging op"
+    }
+  },
+  "whatsapp": {
+    "message": "Hallo, ik wil graag een afspraak maken bij Garage Van den Berg.",
+    "tooltip": "Chat via WhatsApp"
+  },
+  "cookie": {
+    "message": "Wij gebruiken cookies om uw ervaring te verbeteren en onze diensten te optimaliseren.",
+    "privacy_link": "Lees ons privacybeleid",
+    "necessary": "Noodzakelijk",
+    "analytics": "Analytisch",
+    "marketing": "Marketing",
+    "accept": "Accepteren",
+    "settings": "Instellingen",
+    "save": "Opslaan",
+    "reject": "Weigeren"
+  },
+  "sections": {
+    "sectoren": "Klantgroepen",
+    "sectoren_headline": "Wij onderhouden auto's voor iedereen.",
+    "klantverhalen": "Klantervaringen",
+    "klantverhalen_headline_before": "Wat onze klanten",
+    "klantverhalen_headline_after": "over ons zeggen",
+    "vraag_label": "Veelgestelde Vragen",
+    "vraag_headline_before": "Vragen die wij",
+    "vraag_headline_after": "vaak horen",
+    "vraag_contact": "Heeft u een andere vraag? Bel of WhatsApp ons.",
+    "prijscalculator_label": "Kostencalculator",
+    "prijscalculator_headline": "Wat kost uw onderhoud? Bereken het.",
+    "prijscalculator_description": "Selecteer uw auto en dienst voor een directe prijsindicatie. Altijd inclusief arbeid en BTW."
+  },
+  "price_calc_ui": {
+    "bedrijfsvorm": "Type dienst",
+    "facturen": "Leeftijd auto",
+    "personeel": "Extra onderdelen nodig",
+    "ja": "Ja",
+    "nee": "Nee",
+    "hoeveel": "Welke onderdelen?",
+    "extra_diensten": "Extra diensten",
+    "dienst_btw": "Bandenwissel",
+    "dienst_jaarrekening": "Aircoservice",
+    "dienst_salaris": "Remmeninspectie",
+    "dienst_fiscaal": "Uitlijning",
+    "inbegrepen": "Inbegrepen",
+    "indicatieprijs": "Indicatie kosten",
+    "per_maand": "/beurt",
+    "excl_btw": "incl. BTW",
+    "marktgemiddelde": "Dealerprijs",
+    "u_bespaart": "U bespaart",
+    "per_jaar": "/jaar",
+    "basispakket": "Arbeid",
+    "factuurverwerking": "Onderdelen",
+    "personeel_label": "Extra service",
+    "jaarrekening": "Banden",
+    "salarisadministratie": "Airco",
+    "fiscaal_advies": "Uitlijning",
+    "offerte_button": "Vraag een offerte aan",
+    "disclaimer": "Dit is een indicatie. De exacte kosten bespreken wij na inspectie van uw auto.",
+    "advies": "Ons advies"
+  },
+  "pricing_ui": {
+    "populair": "Meest gekozen",
+    "kies_pakket": "Plan deze dienst",
+    "offerte": "Offerte aanvragen"
+  },
+  "footer_ui": {
+    "contact": "Contact",
+    "bedrijf": "Garage",
+    "diensten": "Diensten",
+    "copyright": "Alle rechten voorbehouden.",
+    "privacy": "Privacybeleid",
+    "voorwaarden": "Algemene Voorwaarden",
+    "sitemap": "Sitemap"
+  },
+  "extra_sections": [
+    {
+      "id": "auto-licenses",
+      "type": "licenses-and-bonds",
+      "position": "after_hero",
+      "order": 0,
+      "data": {
+        "label": "Erkenningen & Certificaten",
+        "headline": "Officieel erkend en gecertificeerd",
+        "items": [
+          { "type": "APK-keurstation", "number": "RDW-APKE-2024-EHV087", "issuer": "RDW", "validThrough": "2027-12-31" },
+          { "type": "BOVAG Lidmaatschap", "number": "BOVAG-34521", "issuer": "BOVAG", "validThrough": "2026-12-31" },
+          { "type": "Focwa Schadeherstel", "number": "FOCWA-8876", "issuer": "Focwa", "validThrough": "2026-06-30" },
+          { "type": "NEN 9140 (EV-werkplaats)", "number": "NEN9140-2024-VDB", "issuer": "NEN", "validThrough": "2027-03-15" },
+          { "type": "F-gassen certificaat", "number": "STEK-2024-FY", "issuer": "STEK", "validThrough": "2026-09-30" },
+          { "type": "Carteam Partner", "number": "CT-NL-5611", "issuer": "Carteam Nederland", "validThrough": "2027-01-01" }
+        ]
+      }
+    },
+    {
+      "id": "auto-service-area",
+      "type": "service-area-map",
+      "position": "after_about",
+      "order": 0,
+      "data": {
+        "label": "Werkgebied",
+        "headline": "Wij helpen klanten uit heel de regio",
+        "description": "Onze klanten komen uit Eindhoven en omgeving. Haal- en brengservice beschikbaar binnen een straal van 15 kilometer.",
+        "areas": ["Eindhoven", "Veldhoven", "Waalre", "Geldrop", "Nuenen", "Best", "Son en Breugel", "Helmond", "Valkenswaard", "Eersel"],
+        "mapImage": "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=800&q=80"
+      }
+    },
+    {
+      "id": "auto-opening-hours",
+      "type": "opening-hours",
+      "position": "before_footer",
+      "order": 0,
+      "data": {
+        "label": "Openingstijden",
+        "headline": "Wij staan voor u klaar",
+        "hours": [
+          { "day": "Monday", "open": "08:00", "close": "17:30" },
+          { "day": "Tuesday", "open": "08:00", "close": "17:30" },
+          { "day": "Wednesday", "open": "08:00", "close": "17:30" },
+          { "day": "Thursday", "open": "08:00", "close": "17:30" },
+          { "day": "Friday", "open": "08:00", "close": "17:30" },
+          { "day": "Saturday", "open": "09:00", "close": "13:00" },
+          { "day": "Sunday", "open": "", "close": "", "closed": true }
+        ],
+        "note": "APK zonder afspraak: maandag t/m vrijdag 08:00 - 16:00. Haal- en brengservice op aanvraag."
+      }
+    }
+  ],
+  "credit": {
+    "show": true,
+    "text": "Designed by",
+    "brand": "Belvair",
+    "url": "https://belvair.nl"
+  }
+}

@@ -1,0 +1,477 @@
+{
+  "company": {
+    "name": "Tandartspraktijk De Gracht",
+    "logo_initial": "G",
+    "logo_subtitle": "Tandartsen",
+    "city": "Amsterdam",
+    "address": "Herengracht 218",
+    "postcode": "1016 BT",
+    "phone": "020 — 345 6789",
+    "phone_raw": "31203456789",
+    "email": "info@tandartsdegracht.nl",
+    "kvk": "87654321",
+    "btw_id": "NL009876543B01",
+    "whatsapp": "31203456789",
+    "description": "Tandartspraktijk in het hart van Amsterdam. BIG-geregistreerde tandartsen, moderne apparatuur en persoonlijke aandacht voor elke patient."
+  },
+  "hero": {
+    "label": "Tandartsen — Amsterdam Centrum",
+    "headline_before": "Uw glimlach",
+    "headline_after": "in vertrouwde handen. Wij zorgen voor",
+    "emphasis": "stralende tanden",
+    "subheadline": "Van halfjaarlijkse controle tot implantaten en orthodontie — wij bieden complete tandheelkundige zorg in een ontspannen omgeving. BIG-geregistreerd, modern uitgerust en direct declareren bij uw zorgverzekeraar.",
+    "cta_primary": "Maak een afspraak",
+    "cta_secondary": "Bekijk onze behandelingen",
+    "image": "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=1200&q=80",
+    "image_alt": "Moderne tandartspraktijk in Amsterdam met vriendelijke tandarts die een patient behandelt",
+    "floating_card_label": "Patienttevredenheid",
+    "floating_card_value": "9.4/10",
+    "badges": [
+      { "value": "20+", "label": "Jaar ervaring" },
+      { "value": "8.500+", "label": "Patienten" },
+      { "value": "9.4", "label": "Gemiddeld cijfer" }
+    ]
+  },
+  "trust": {
+    "label": "Erkend door",
+    "google_score": "4.8",
+    "google_count": "312",
+    "certifications": ["BIG", "KNMT", "NVvO", "NVOI"],
+    "software": ["Novadent", "Planmeca"]
+  },
+  "clients": [
+    { "name": "Zilveren Kruis", "style": "text-[12px] font-bold uppercase tracking-[0.2em]" },
+    { "name": "VGZ", "style": "text-[14px] font-black uppercase tracking-[0.15em]" },
+    { "name": "CZ Groep", "style": "text-[13px] font-bold uppercase tracking-[0.2em]" },
+    { "name": "Menzis", "style": "text-[13px] font-bold uppercase tracking-[0.18em]" },
+    { "name": "DSW", "style": "text-[15px] font-black uppercase tracking-[0.25em]" },
+    { "name": "ONVZ", "style": "text-[12px] font-bold uppercase tracking-[0.22em]" },
+    { "name": "a.s.r.", "style": "font-serif text-[17px] italic tracking-tight" },
+    { "name": "ZORG & ZEKERHEID", "style": "text-[10px] font-bold uppercase tracking-[0.3em]" }
+  ],
+  "services": {
+    "label": "Onze Behandelingen",
+    "headline_before": "Complete tandheelkundige",
+    "headline_emphasis": "zorg",
+    "description": "Van preventieve controles tot cosmetische behandelingen — wij bieden het volledige spectrum aan tandheelkundige zorg. Altijd met persoonlijke aandacht en de nieuwste technieken.",
+    "items": [
+      { "title": "Controle & Reiniging", "description": "Halfjaarlijkse controle met professionele gebitsreiniging. Wij signaleren problemen vroeg en voorkomen dure vervolgbehandelingen." },
+      { "title": "Vullingen & Restauraties", "description": "Composietvullingen in de kleur van uw eigen tanden. Onzichtbaar, duurzaam en pijnloos dankzij lokale verdoving." },
+      { "title": "Implantaten", "description": "Verlies van een tand hoeft niet blijvend te zijn. Onze implantoloog plaatst titanium implantaten die een leven lang meegaan." },
+      { "title": "Orthodontie & Invisalign", "description": "Rechte tanden op elke leeftijd. Keuze uit vaste beugels of onzichtbare Invisalign aligners — ook voor volwassenen." },
+      { "title": "Tanden Bleken", "description": "Professioneel bleken voor een stralend witte glimlach. Veilig, effectief en tot 8 tinten lichter in een sessie." },
+      { "title": "Kronen & Bruggen", "description": "Beschadigde of ontbrekende tanden hersteld met op maat gemaakte keramische kronen en bruggen. Natuurlijk resultaat gegarandeerd." }
+    ]
+  },
+  "industries": [
+    { "name": "Preventieve Zorg", "desc": "Controles, reinigingen & fluoridebehandelingen" },
+    { "name": "Cosmetische Tandheelkunde", "desc": "Bleken, veneers & smile makeovers" },
+    { "name": "Implantologie", "desc": "Enkele implantaten tot volledige reconstructies" },
+    { "name": "Orthodontie", "desc": "Beugels, Invisalign & retainers" },
+    { "name": "Kindertandheelkunde", "desc": "Speciaal voor kinderen vanaf 2 jaar" },
+    { "name": "Spoedhulp", "desc": "Pijn, breuken & noodgevallen dezelfde dag" }
+  ],
+  "about": {
+    "label": "Over De Gracht Tandartsen",
+    "headline": "Persoonlijke zorg.\nModerne technieken. Geen wachttijden.",
+    "paragraph": "Andere praktijken draaien op volume. Bij De Gracht plannen wij ruim de tijd voor elke patient. U ziet altijd dezelfde tandarts, die uw gebit en geschiedenis door en door kent. Angstpatienten zijn bij ons in veilige handen.",
+    "image": "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?w=1200&q=80",
+    "image_alt": "Modern interieur van tandartspraktijk De Gracht in Amsterdam met warme verlichting en comfortabele behandelstoelen",
+    "years_experience": "20",
+    "pillars": [
+      { "title": "Persoonlijke Aandacht", "text": "Elke patient heeft een eigen tandarts die de tijd neemt. Geen haastwerk, geen wisselende behandelaren." },
+      { "title": "Moderne Apparatuur", "text": "3D-rontgen (CBCT), intraorale camera, digitale afdrukken en laser — wij investeren continu in de nieuwste technologie." },
+      { "title": "Angstvrije Behandeling", "text": "Speciaal programma voor angstpatienten. Rustige sfeer, uitleg bij elke stap en eventueel lachgas of sedatie op verzoek." }
+    ]
+  },
+  "stats": [
+    { "value": 8500, "suffix": "+", "label": "Patienten" },
+    { "value": 20, "suffix": "+", "label": "Jaar Ervaring" },
+    { "value": 94, "suffix": "%", "label": "Beveelt Ons Aan" },
+    { "value": 3, "suffix": "", "label": "BIG-Tandartsen" }
+  ],
+  "case_study": {
+    "before_label": "Voor behandeling",
+    "before_value": "Ontbrekende tand",
+    "after_label": "Na behandeling",
+    "after_value": "Implantaat + kroon",
+    "savings": "100%",
+    "savings_label": "functie en esthetiek hersteld",
+    "client": "Patient M. de Jong",
+    "description": "kreeg een implantaat met keramische kroon op de bovenkaak. Binnen 3 maanden volledig hersteld — eten, lachen en praten zonder beperkingen."
+  },
+  "team": {
+    "label": "Ons Team",
+    "headline_before": "Maak kennis met uw",
+    "headline_emphasis": "tandarts",
+    "description": "Drie BIG-geregistreerde tandartsen, samen meer dan 45 jaar ervaring in alle facetten van de tandheelkunde.",
+    "members": [
+      {
+        "name": "Dr. Femke van Dijk",
+        "role": "Tandarts — Implantologie",
+        "credentials": "BIG 49123456701 · NVOI · 18 jaar ervaring",
+        "bio": "Gespecialiseerd in implantologie en esthetische tandheelkunde",
+        "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=400&q=80",
+        "alt": "Dr. Femke van Dijk, tandarts-implantoloog bij De Gracht Tandartsen"
+      },
+      {
+        "name": "Dr. Bas Hendriks",
+        "role": "Tandarts — Orthodontie",
+        "credentials": "BIG 49198765402 · NVvO · Invisalign Diamond Provider · 15 jaar ervaring",
+        "bio": "Expert in onzichtbare beugels en beugelbehandelingen voor alle leeftijden",
+        "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=400&q=80",
+        "alt": "Dr. Bas Hendriks, orthodontist bij De Gracht Tandartsen"
+      },
+      {
+        "name": "Dr. Noor El-Fassi",
+        "role": "Tandarts — Algemeen",
+        "credentials": "BIG 49134567803 · KNMT · 12 jaar ervaring",
+        "bio": "Specialisatie in kindertandheelkunde en angstpatienten",
+        "image": "https://images.unsplash.com/photo-1594824476967-48c8b964ac31?w=400&q=80",
+        "alt": "Dr. Noor El-Fassi, algemeen tandarts bij De Gracht Tandartsen"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "Ik was jarenlang doodsbang voor de tandarts. Bij De Gracht voelde ik me voor het eerst op mijn gemak. Dr. Van Dijk nam alle tijd om alles uit te leggen. Nu ga ik met plezier naar mijn controle.",
+      "author": "Linda Vermeer",
+      "title": "Angstpatient, Amsterdam",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&q=80",
+      "alt": "Vrouw met ontspannen glimlach"
+    },
+    {
+      "quote": "Mijn implantaat voelt als mijn eigen tand. Het hele traject — van consultatie tot plaatsing — was professioneel en pijnloos. Ik durf weer voluit te lachen.",
+      "author": "Robert Janssen",
+      "title": "Implantaat-patient, Amstelveen",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+      "alt": "Man met zelfverzekerde glimlach"
+    },
+    {
+      "quote": "De Invisalign-behandeling van Dr. Hendriks heeft mijn zelfvertrouwen enorm vergroot. Niemand zag dat ik een beugel droeg, en het resultaat is prachtig.",
+      "author": "Priya Sharma",
+      "title": "Invisalign-patient, Amsterdam",
+      "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&q=80",
+      "alt": "Jonge vrouw met stralende glimlach"
+    }
+  ],
+  "process": {
+    "label": "Hoe Het Werkt",
+    "headline_before": "Uw eerste bezoek in",
+    "headline_emphasis": "vier stappen",
+    "steps": [
+      { "step": "01", "title": "Online Aanmelden", "description": "Meld u aan via onze website of bel ons. Wij plannen uw eerste afspraak binnen een week — vaak al dezelfde dag." },
+      { "step": "02", "title": "Intake & Rontgenfoto", "description": "Wij maken een uitgebreide scan van uw gebit met 3D-rontgen. Samen bespreken wij de bevindingen op het scherm." },
+      { "step": "03", "title": "Behandelplan", "description": "U ontvangt een helder behandelplan met kosten, duur en vergoeding door uw verzekeraar. Geen verrassingen." },
+      { "step": "04", "title": "Behandeling & Nazorg", "description": "Wij voeren de behandeling uit met aandacht voor uw comfort. Na afloop ontvangt u nazorginstructies en een controleafspraak." }
+    ]
+  },
+  "calculator": {
+    "business_types": [
+      { "id": "controle", "label": "Halfjaarlijkse controle", "base": 45 },
+      { "id": "vulling", "label": "Composietvulling", "base": 85 },
+      { "id": "kroon", "label": "Keramische kroon", "base": 650 },
+      { "id": "implantaat", "label": "Implantaat compleet", "base": 1800 }
+    ]
+  },
+  "pricing": {
+    "label": "Tarieven",
+    "headline_before": "Transparante",
+    "headline_emphasis": "behandeltarieven",
+    "description": "Alle tarieven zijn conform de NZa-richtlijnen. De meeste behandelingen worden (deels) vergoed door uw basisverzekering of aanvullende tandartsverzekering.",
+    "plans": [
+      {
+        "name": "Controle & Preventie",
+        "price": "€45",
+        "period": "/bezoek",
+        "description": "Standaard halfjaarlijkse controle met reiniging",
+        "features": ["Periodieke controle", "Professionele gebitsreiniging", "Rontgenfoto (indien nodig)", "Mondhygiene-advies", "Doorverwijzing specialist", "Directe declaratie verzekeraar"],
+        "highlight": false
+      },
+      {
+        "name": "Restauratief",
+        "price": "€85",
+        "period": "/vulling",
+        "description": "Vullingen, kronen en restauraties",
+        "features": ["Composietvulling vanaf €85", "Keramische kroon vanaf €650", "Wortelkanaalbehandeling vanaf €280", "Brug (per element) vanaf €650", "Lokale verdoving inbegrepen", "Kleurmatch met natuurlijke tanden"],
+        "highlight": true
+      },
+      {
+        "name": "Implantologie",
+        "price": "€1.800",
+        "period": "/implantaat",
+        "description": "Titanium implantaten met levenslange garantie",
+        "features": ["3D-planning met CBCT-scan", "Titanium implantaat", "Keramische kroon op implantaat", "Botopbouw indien nodig", "5 jaar garantie op implantaat", "Gratis controles eerste jaar"],
+        "highlight": false
+      }
+    ]
+  },
+  "integrations": ["Novadent", "Planmeca", "CBCT 3D", "Intraorale Camera", "Digitale Afdrukken", "Vecozo", "Zorgdomein", "MijnTandarts.nl"],
+  "blog": {
+    "label": "Tips & Advies",
+    "headline_before": "Praktische tips voor",
+    "headline_emphasis": "gezonde tanden",
+    "posts": [
+      {
+        "category": "Preventie",
+        "title": "Tandenpoetsen: doet u het wel goed?",
+        "description": "De 5 meest gemaakte fouten bij het poetsen — en hoe u ze voorkomt voor een gezonder gebit.",
+        "image": "https://images.unsplash.com/photo-1606811971618-4486d14f3f99?w=800&q=80",
+        "date": "10 feb 2026"
+      },
+      {
+        "category": "Behandelingen",
+        "title": "Implantaat of brug: wat is beter voor u?",
+        "description": "Een vergelijking van de twee meest voorkomende oplossingen voor een ontbrekende tand.",
+        "image": "https://images.unsplash.com/photo-1609840114035-3c981b782dfe?w=800&q=80",
+        "date": "3 feb 2026"
+      },
+      {
+        "category": "Kinderen",
+        "title": "Eerste bezoek aan de tandarts: zo bereidt u uw kind voor",
+        "description": "Praktische tips om het eerste tandartsbezoek voor uw kind een positieve ervaring te maken.",
+        "image": "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?w=800&q=80",
+        "date": "25 jan 2026"
+      }
+    ]
+  },
+  "faqs": [
+    { "question": "Nemen jullie nieuwe patienten aan?", "answer": "Ja, wij verwelkomen graag nieuwe patienten. U kunt zich aanmelden via onze website of telefonisch. Doorgaans kunnen wij u binnen een week ontvangen voor een eerste afspraak." },
+    { "question": "Wordt mijn behandeling vergoed door mijn verzekering?", "answer": "De halfjaarlijkse controle en basale behandelingen vallen onder de basisverzekering (tot 18 jaar volledig). Voor volwassenen hangt de vergoeding af van uw aanvullende tandartsverzekering. Wij declareren altijd direct bij uw verzekeraar via Vecozo." },
+    { "question": "Wat als ik bang ben voor de tandarts?", "answer": "Wij hebben ruime ervaring met angstpatienten. Dr. El-Fassi is hierin gespecialiseerd. Wij nemen extra tijd, leggen elke stap uit en bieden eventueel lachgas of bewuste sedatie aan. U bent bij ons in veilige handen." },
+    { "question": "Hoe lang duurt een Invisalign-behandeling?", "answer": "Een gemiddelde Invisalign-behandeling duurt 6 tot 18 maanden, afhankelijk van de complexiteit. Tijdens de gratis consultatie maakt Dr. Hendriks een 3D-simulatie zodat u het eindresultaat van tevoren ziet." },
+    { "question": "Kan ik dezelfde dag terecht bij een noodgeval?", "answer": "Ja, wij houden elke dag spoedplekken vrij. Bel ons bij acute pijn, een afgebroken tand of ander noodgeval en wij proberen u dezelfde dag nog te helpen." },
+    { "question": "Wat zijn de kosten van een implantaat?", "answer": "Een compleet implantaat (inclusief kroon) kost vanaf €1.800. De exacte kosten hangen af van eventuele botopbouw en het type kroon. Wij stellen altijd vooraf een gedetailleerde begroting op en bespreken de vergoedingsmogelijkheden." },
+    { "question": "Zijn jullie ook in het weekend open?", "answer": "Onze reguliere openingstijden zijn maandag t/m vrijdag van 08:00 tot 17:00. Op dinsdag- en donderdagavond zijn wij geopend tot 20:00. Bij spoedgevallen buiten openingstijden kunt u ons bellen voor een doorverwijzing naar de tandartsenpost." },
+    { "question": "Bieden jullie een betalingsregeling aan?", "answer": "Ja, voor grotere behandelingen zoals implantaten, kronen of orthodontie bieden wij een rentevrije betalingsregeling aan in 3, 6 of 12 termijnen. Wij bespreken de mogelijkheden graag met u." }
+  ],
+  "cta": {
+    "label": "Afspraak Maken",
+    "headline": "Maak vandaag nog een afspraak.",
+    "description": "Bel ons, boek online of stuur een WhatsApp. Nieuwe patienten zijn welkom — vaak kunt u al binnen een week terecht."
+  },
+  "footer": {
+    "diensten": ["Controle & Reiniging", "Vullingen", "Implantaten", "Orthodontie", "Bleken", "Kronen & Bruggen"],
+    "bedrijf": [
+      { "label": "Over Ons", "href": "#over-ons" },
+      { "label": "Ons Team", "href": "#team" },
+      { "label": "Tarieven", "href": "#tarieven" },
+      { "label": "Blog", "href": "#" },
+      { "label": "Spoedgevallen", "href": "#" },
+      { "label": "Contact", "href": "#contact" }
+    ]
+  },
+  "sticky_cta": {
+    "title": "Afspraak maken",
+    "subtitle": "Vaak al deze week",
+    "button": "Boek nu"
+  },
+  "nav": {
+    "items": ["Behandelingen", "Over Ons", "Team", "Tarieven"],
+    "cta": "Afspraak Maken"
+  },
+  "client_logos": {
+    "label": "Gecontracteerd bij alle grote zorgverzekeraars"
+  },
+  "integrations_label": "Wij werken met de nieuwste tandheelkundige technologie",
+  "scheduler": {
+    "title": "Afspraak Maken",
+    "subtitle": "Plan uw bezoek",
+    "step1": {
+      "title": "Welke behandeling wilt u boeken?",
+      "subtitle": "U kunt dit later nog wijzigen.",
+      "packages": [
+        { "id": "controle", "name": "Controle & Reiniging", "price": "€45", "desc": "Halfjaarlijkse controle" },
+        { "id": "behandeling", "name": "Behandeling", "price": "Variabel", "desc": "Vulling, kroon of ander herstel", "popular": true },
+        { "id": "implantaat", "name": "Implantaat Consultatie", "price": "Gratis", "desc": "Vrijblijvend gesprek over implantaten" },
+        { "id": "overig", "name": "Overig / Weet ik niet", "price": "", "desc": "Wij helpen u bij de juiste keuze" }
+      ],
+      "button": "Kies datum & tijd"
+    },
+    "step2": {
+      "title_date": "Kies een datum",
+      "title_time": "Kies een tijd",
+      "button_back": "Terug",
+      "button_next": "Verder"
+    },
+    "step3": {
+      "title": "Uw gegevens",
+      "subtitle": "Zodat wij u kunnen bevestigen.",
+      "fields": {
+        "naam": "Naam *",
+        "email": "E-mail *",
+        "telefoon": "Telefoon",
+        "bedrijf": "Verzekeraar (optioneel)"
+      },
+      "summary_title": "Samenvatting",
+      "summary_package": "Behandeling:",
+      "summary_date": "Datum:",
+      "summary_time": "Tijd:",
+      "button_back": "Terug",
+      "button_submit": "Bevestig afspraak",
+      "privacy": "Door te bevestigen gaat u akkoord met ons privacybeleid."
+    },
+    "success": {
+      "title": "Afspraak bevestigd!",
+      "message": "U ontvangt een bevestiging op"
+    }
+  },
+  "whatsapp": {
+    "message": "Hallo, ik wil graag een afspraak maken bij De Gracht Tandartsen.",
+    "tooltip": "Chat via WhatsApp"
+  },
+  "cookie": {
+    "message": "Wij gebruiken cookies om uw ervaring te verbeteren en onze diensten te optimaliseren.",
+    "privacy_link": "Lees ons privacybeleid",
+    "necessary": "Noodzakelijk",
+    "analytics": "Analytisch",
+    "marketing": "Marketing",
+    "accept": "Accepteren",
+    "settings": "Instellingen",
+    "save": "Opslaan",
+    "reject": "Weigeren"
+  },
+  "sections": {
+    "sectoren": "Specialisaties",
+    "sectoren_headline": "Wij behandelen elk aspect van uw gebit.",
+    "klantverhalen": "Ervaringen",
+    "klantverhalen_headline_before": "Wat patienten",
+    "klantverhalen_headline_after": "over ons zeggen",
+    "vraag_label": "Veelgestelde Vragen",
+    "vraag_headline_before": "Vragen die wij",
+    "vraag_headline_after": "vaak horen",
+    "vraag_contact": "Staat uw vraag er niet bij? Neem direct contact op.",
+    "prijscalculator_label": "Prijsindicatie",
+    "prijscalculator_headline": "Wat kost uw behandeling? Bekijk de tarieven.",
+    "prijscalculator_description": "Alle prijzen conform NZa-richtlijnen. De vergoeding hangt af van uw verzekeringspakket."
+  },
+  "price_calc_ui": {
+    "bedrijfsvorm": "Behandeling",
+    "facturen": "Aantal behandelingen",
+    "personeel": "Aanvullende verzekering",
+    "ja": "Ja",
+    "nee": "Nee",
+    "hoeveel": "Welk pakket?",
+    "extra_diensten": "Extra behandelingen",
+    "dienst_btw": "Rontgenfoto",
+    "dienst_jaarrekening": "Mondhygiene",
+    "dienst_salaris": "Fluoride",
+    "dienst_fiscaal": "Verdoving",
+    "inbegrepen": "Inbegrepen",
+    "indicatieprijs": "Indicatie kosten",
+    "per_maand": "/behandeling",
+    "excl_btw": "excl. eigen risico",
+    "marktgemiddelde": "Landelijk gemiddelde",
+    "u_bespaart": "Vergoeding verzekeraar",
+    "per_jaar": "/jaar",
+    "basispakket": "Basisbehandeling",
+    "factuurverwerking": "Aanvullend",
+    "personeel_label": "Specialistisch",
+    "jaarrekening": "Rontgen",
+    "salarisadministratie": "Mondhygiene",
+    "fiscaal_advies": "Narcose",
+    "offerte_button": "Vraag een behandelplan aan",
+    "disclaimer": "Dit is een indicatie. De exacte kosten bespreken wij na de intake.",
+    "advies": "Aanbevolen behandeling"
+  },
+  "pricing_ui": {
+    "populair": "Meest gekozen",
+    "kies_pakket": "Boek deze behandeling",
+    "offerte": "Vrijblijvend consult"
+  },
+  "footer_ui": {
+    "contact": "Contact",
+    "bedrijf": "Praktijk",
+    "diensten": "Behandelingen",
+    "copyright": "Alle rechten voorbehouden.",
+    "privacy": "Privacybeleid",
+    "voorwaarden": "Algemene Voorwaarden",
+    "sitemap": "Sitemap"
+  },
+  "extra_sections": [
+    {
+      "id": "dental-insurance-grid",
+      "type": "insurance-grid",
+      "position": "after_hero",
+      "order": 0,
+      "data": {
+        "label": "Wij declareren direct bij uw verzekeraar",
+        "providers": [
+          { "name": "Zilveren Kruis" },
+          { "name": "VGZ" },
+          { "name": "CZ" },
+          { "name": "Menzis" },
+          { "name": "DSW" },
+          { "name": "ONVZ" },
+          { "name": "a.s.r." },
+          { "name": "Zorg en Zekerheid" }
+        ]
+      }
+    },
+    {
+      "id": "dental-doctor-credentials",
+      "type": "doctor-credentials",
+      "position": "after_team",
+      "order": 0,
+      "data": {
+        "label": "BIG-Registraties",
+        "headline": "Geregistreerde tandartsen met bewezen expertise",
+        "doctors": [
+          {
+            "name": "Dr. Femke van Dijk",
+            "title": "Tandarts — Implantologie",
+            "credentials": "BIG 49123456701",
+            "education": ["Universiteit van Amsterdam — Tandheelkunde", "ACTA — Specialisatie Implantologie"],
+            "specialties": ["Implantaten", "Esthetische tandheelkunde", "Botopbouw"],
+            "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=400&q=80",
+            "alt": "Dr. Femke van Dijk, tandarts-implantoloog"
+          },
+          {
+            "name": "Dr. Bas Hendriks",
+            "title": "Tandarts — Orthodontie",
+            "credentials": "BIG 49198765402",
+            "education": ["Radboud Universiteit — Tandheelkunde", "ACTA — Specialisatie Orthodontie"],
+            "specialties": ["Invisalign", "Vaste beugels", "Retainers"],
+            "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=400&q=80",
+            "alt": "Dr. Bas Hendriks, orthodontist"
+          },
+          {
+            "name": "Dr. Noor El-Fassi",
+            "title": "Tandarts — Algemeen",
+            "credentials": "BIG 49134567803",
+            "education": ["Universiteit Utrecht — Tandheelkunde", "NVvK — Kindertandheelkunde"],
+            "specialties": ["Kindertandheelkunde", "Angstpatienten", "Preventieve zorg"],
+            "image": "https://images.unsplash.com/photo-1594824476967-48c8b964ac31?w=400&q=80",
+            "alt": "Dr. Noor El-Fassi, algemeen tandarts"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dental-opening-hours",
+      "type": "opening-hours",
+      "position": "before_footer",
+      "order": 0,
+      "data": {
+        "label": "Openingstijden",
+        "headline": "Wij zijn er wanneer u ons nodig heeft",
+        "hours": [
+          { "day": "Monday", "open": "08:00", "close": "17:00" },
+          { "day": "Tuesday", "open": "08:00", "close": "20:00" },
+          { "day": "Wednesday", "open": "08:00", "close": "17:00" },
+          { "day": "Thursday", "open": "08:00", "close": "20:00" },
+          { "day": "Friday", "open": "08:00", "close": "17:00" },
+          { "day": "Saturday", "open": "09:00", "close": "13:00", "closed": false },
+          { "day": "Sunday", "open": "", "close": "", "closed": true }
+        ],
+        "note": "Bij spoedgevallen buiten openingstijden belt u de Tandartsenpost Amsterdam: 020 — 570 9595"
+      }
+    }
+  ],
+  "credit": {
+    "show": true,
+    "text": "Designed by",
+    "brand": "Belvair",
+    "url": "https://belvair.nl"
+  }
+}
